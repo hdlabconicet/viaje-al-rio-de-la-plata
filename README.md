@@ -1,5 +1,5 @@
-# Argentina-y-conquista-del-Rio-de-la-plata
+# Viaje-al-Rio-de-la-plata
 
-[![DOI](https://zenodo.org/badge/346828059.svg)](https://zenodo.org/doi/10.5281/zenodo.10278565)
+[![DOI](urlbadge)](url)
 
-Repositorio de la edición digital del poema histórico _Argentina y conquista del Río de la Plata_ de Martín del Barco Centenera, realizada por [HD Lab](http://hdlab.space)
+Repositorio de la edición digital de la crónica titulada _Viaje al Río de la Plata_ de Ulrico Schmidl, realizada por [HD Lab](http://hdlab.space)
