@@ -25,6 +25,10 @@
 <xsl:apply-templates select="//div/p"/>
 
 </div>
+
+<div class="col-right">
+<a target="_blank" href="{{site.baseurl}}/assets/img/argentina_manuscrita/{{page.img}}.jpg"><img src="{{site.baseurl}}/assets/img/argentina_manuscrita/{{page.img}}.jpg"/></a>
+</div>
 </div>
 
 <script type="text/javascript">
@@ -54,7 +58,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:apply-templates/>
         </a>
     </xsl:template>   
@@ -65,7 +69,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <xsl:apply-templates/>
         </a>
     </xsl:template>  
@@ -76,7 +80,7 @@
             <xsl:attribute name="href">
                 <xsl:value-of select="@ref"/>
             </xsl:attribute>
-            <xsl:attribute name="target">blank</xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
             <!-- <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
             </xsl:attribute> -->
@@ -84,5 +88,20 @@
         </a>
     </xsl:template>
     
+    <xsl:template match="//hi">
+        <span> 
+            <xsl:attribute name="style">font-style: italic;</xsl:attribute>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="//note">
+        <button> 
+            <xsl:attribute name="class">balloon</xsl:attribute>
+            <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
+            <xsl:attribute name="data-balloon-length">large</xsl:attribute>
+            <xsl:attribute name="data-balloon"><xsl:apply-templates/></xsl:attribute>
+        </button>
+    </xsl:template>   
 
 </xsl:stylesheet>
