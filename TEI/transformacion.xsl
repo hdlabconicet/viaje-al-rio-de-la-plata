@@ -12,7 +12,7 @@
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
                         href="_pages/{$doc_id}.html" omit-xml-declaration="yes">---
-        layout: default
+        layout: textoporpagina
         title: <xsl:apply-templates select="$doc_id"/>
         permalink: <xsl:apply-templates select="$doc_id"/>
        ---
@@ -25,10 +25,8 @@
 <xsl:apply-templates select="//div/p"/>
 
 </div>
-
-<div class="col-right">
-<a target="_blank" href="{{site.baseurl}}/assets/img/argentina_manuscrita/{{page.img}}.jpg"><img src="{{site.baseurl}}/assets/img/argentina_manuscrita/{{page.img}}.jpg"/></a>
-</div>
+  <div class="col-right"><a target="_blank" href="./assets/img/paginas_ed/137.jpg"><img src="./assets/img/paginas_ed/137.jpg"/></a>
+   </div>
 </div>
 
 <script type="text/javascript">
@@ -100,7 +98,8 @@
             <xsl:attribute name="class">balloon</xsl:attribute>
             <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
             <xsl:attribute name="data-balloon-length">large</xsl:attribute>
-            <xsl:attribute name="data-balloon"><xsl:apply-templates/></xsl:attribute>
+            <xsl:attribute name="data-balloon"><xsl:value-of select="@ana"/></xsl:attribute>
+            <xsl:apply-templates/>
         </button>
     </xsl:template>   
 
