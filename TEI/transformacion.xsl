@@ -82,7 +82,20 @@
             <!-- <xsl:attribute name="class">
                 <xsl:value-of select="@type"/>
             </xsl:attribute> -->
-            <xsl:apply-templates/>
+            <xsl:choose>
+                <xsl:when test="note">
+                    <button> 
+                        <xsl:attribute name="class">balloon</xsl:attribute>
+                        <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
+                        <xsl:attribute name="data-balloon-length">large</xsl:attribute>
+                        <xsl:attribute name="data-balloon"><xsl:value-of select="note"/></xsl:attribute>
+                        <xsl:apply-templates select="node()[not(name(.) eq 'note')]"></xsl:apply-templates>
+                    </button>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
         </a>
     </xsl:template>
     
@@ -94,13 +107,13 @@
     </xsl:template>
     
     <xsl:template match="//note">
-        <button> 
+       <xsl:if test="not(parent::persName)">
+           <button> 
             <xsl:attribute name="class">balloon</xsl:attribute>
             <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
             <xsl:attribute name="data-balloon-length">large</xsl:attribute>
-            <xsl:attribute name="data-balloon"><xsl:value-of select="@ana"/></xsl:attribute>
-            
-        </button>
+            <xsl:attribute name="data-balloon"><xsl:value-of select="@ana"/></xsl:attribute>            
+        </button></xsl:if>
     </xsl:template>   
 
 </xsl:stylesheet>
