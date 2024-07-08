@@ -99,7 +99,7 @@
             <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
             <xsl:attribute name="data-balloon-length">large</xsl:attribute>
             <xsl:attribute name="data-balloon"><xsl:value-of select="@ana"/></xsl:attribute>
-            <xsl:apply-templates/>
+            
         </button>
     </xsl:template>   
 
