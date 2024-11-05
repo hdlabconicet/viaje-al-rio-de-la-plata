@@ -19,19 +19,12 @@
        <div class="row">
     <div class="col-left">
 
-<h2 class="mb-3"><xsl:apply-templates select="//head[1]"/></h2>
-<h2 class="mb-3"><xsl:apply-templates select="//head[2]"/></h2>
-
-<xsl:apply-templates select="//div/p"/>
+<xsl:apply-templates select="//div"/>
 
 </div>
   <div class="col-right">
   
-  <a target="_blank" href="./assets/img/paginas_ed/137.jpg">
-  
-    <img src="./assets/img/paginas_ed/137.jpg"/>
-  
-  </a>
+<xsl:apply-templates select="//pb"/>
 
    </div>
 </div>
@@ -50,11 +43,27 @@
 
     <!-- Transformaciones -->
 
+<xsl:template match="//pb">
+  <a target="_blank">
+            <xsl:attribute name="href">./assets/img/paginas_ed/<xsl:value-of select="@facs"/></xsl:attribute>
+    <img>
+                <xsl:attribute name="src">./assets/img/paginas_ed/<xsl:value-of select="@facs"/></xsl:attribute>
+  </img>
+  </a>
+ </xsl:template>
+
 
 <xsl:template match="//p">
         <p>
             <xsl:apply-templates/>
         </p>
+    </xsl:template>
+
+
+<xsl:template match="//head">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
     </xsl:template>
 
 
