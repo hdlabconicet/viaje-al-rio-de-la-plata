@@ -7,7 +7,7 @@
                 xmlns="http://www.w3.org/1999/xhtml">
                 
                 <xsl:template match="/">
-                    <xsl:variable name="doc_id" select="//head[1]"/> 
+                    <xsl:variable name="doc_id" select="//pb/@n"/> 
                     <!-- Recuperamos el id del documento en una variable para nombrar el archivo de salida -->
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
