@@ -3,10 +3,10 @@
   background: none;
   font-size: inherit;
   font-family: inherit;
-  color: inherit;
+  color: brown;
   margin: 0;
   padding: 0;
-  border-bottom: 2px dotted #841212;
+  /* border-bottom: 2px dotted #841212; */
 }
 
 button[data-balloon]{overflow:visible}[data-balloon]{position:relative;}

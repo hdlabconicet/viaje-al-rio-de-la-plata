@@ -57,6 +57,8 @@ h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em
 a {
   text-decoration: none;
   padding-bottom: 1px;
+   border-bottom: 2px dotted #841212; 
+   color: black;
   // border-bottom: 1px solid currentColor;
 }
 
