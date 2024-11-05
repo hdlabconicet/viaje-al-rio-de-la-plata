@@ -25,7 +25,14 @@
 <xsl:apply-templates select="//div/p"/>
 
 </div>
-  <div class="col-right"><a target="_blank" href="./assets/img/paginas_ed/137.jpg"><img src="./assets/img/paginas_ed/137.jpg"/></a>
+  <div class="col-right">
+  
+  <a target="_blank" href="./assets/img/paginas_ed/137.jpg">
+  
+    <img src="./assets/img/paginas_ed/137.jpg"/>
+  
+  </a>
+
    </div>
 </div>
 
@@ -99,7 +106,7 @@
             <xsl:attribute name="data-balloon-pos">up</xsl:attribute>
             <xsl:attribute name="data-balloon-length">large</xsl:attribute>
             <xsl:attribute name="data-balloon"><xsl:value-of select="@ana"/></xsl:attribute>
-            
+                        <xsl:apply-templates/>
         </button>
     </xsl:template>   
 
