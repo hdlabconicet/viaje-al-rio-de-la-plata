@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Gabriel Calarco</editor>
+        <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="14">
+
+        <pb n="159" facs="159.jpg"/>
+        <head>CAPÍTULO XIV</head>
+        <head type="titulocapitulo">REGRESA DON PEDRO DE MENDOZA Á ESPAÑA Y MUERE EN EL VIAJE</head>
+
+        <p>En este pueblo permanecimos por espacio de 4 años. Mas nuestro capitán general, <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/24"><hi rend="italic">thonn Pietro Mantossa</hi></persName>, agobiado de sus dolencias, ya no podía mover ni manos ni pies, y había gastado en este viaje 4.000 <note ana="Moneda de oro que se usó en España hasta fines del siglo XVI">ducados en oro</note>; ya no podía quedarse más tiempo con nosotros en este pueblo y se volvió con dos pequeños <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/437"><hi rend="italic">parckhadienes</hi> (bergantines)</term> á <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/417"><hi rend="italic">Bonas Ayers</hi></placeName> á juntarse con los 4 navíos grandes [de los que tomó dos] con 50 hombres y partió para <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/317">Hispanien</placeName>. Mas cuando llegaron como á medio camino, la mano de Dios, que todo lo puede, cargó sobre él, así que murió miserablemente. ¡Dios le tenga misericordia!</p>
+
+        <p>El, empero, nos había prometido, antes de dejar-
+        <pb n="160" facs="160.jpg"/>
+        nos, que al punto de llegar él ó los navíos á España, mandaría otros 2 al <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/358"><hi rend="italic">Rio della Plata</hi></placeName>, lo que también se consignó fielmente en su testamento y se cumplió. Así, pues, luego que los 2 navíos arribaron á <hi rend="italic">Hispania</hi> y que lo supieron los del consejo de la Cesárea Majestad, sin demora y en nombre de Su Majestad hicieron aprestar y despacharon al <hi rend="italic">Río della Platta</hi> otros navíos con gente, comida y rescates y lo demás que podría faltarles.</p>
+      </div>
+    </body> 
+</text>
+</TEI>        

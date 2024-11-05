@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Romina De león</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="25">
+        <pb n="183" facs="183.jpg"/>
+
+        <head>CAPÍTULO XXV</head>
+        <head type="titulocapitulo"><note ana="Este capítulo es un episodio intercalado y no depende de lo que precede, porque relata la entrada de Irala y Cabrera a socorrer a Juan de Ayolas en 1539. Si Schmidel hubiese acompañado a Ayolas no podría haber estado de vuelta en Buenos Aires con Ruiz en Mayo de 1538">AYOLAS VIAJA POR TIERRA DE LOS PAYAGUÁ Y NAPERÚ</note></head>
+
+        <p>Y primero después que partió dé los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/721"><hi rend="italic">Pyembas</hi></term>, llegó él á una nación llamada <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/752"><hi rend="italic">Naperus</hi></term>, que son amigos de los <hi rend="italic">Pyembas</hi> y no tienen más que pescado y carne; es una nación de mucha gente. De estos <hi rend="italic">Naperus</hi> también nuestro capitán general se separó algunos que le sirviesen de baqueanos; pa-
+        
+        <pb n="184" facs="184.jpg"/>
+        
+        saron en seguida por muchas naciones con grandes penas y trabajo, y se les hizo gran resistencia; también murieron de hambre en este viaje la mitad del número de los Cristianos; y en eso llegó á una nación llamada <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/753"><hi rend="italic">Payssenos</hi> (Payzunos)</term>; de allí no pudo pasar más adelante, sino que se vió obligado á retroceder con la gente, menos tres españoles, que por estar enfermos tuvo que dejar atrás entre los <hi rend="italic">Paysennos</hi>. Así él, nuestro capitán <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/64"><hi rend="italic">Jann Eyollas</hi></persName> <hi rend="italic">salverende</hi> (sano y salvo) en cuanto á su persona, es decir <hi rend="italic">gesunndt</hi>, regresó con la gente á los <hi rend="italic">Naperus</hi>; allí quedaron y descansaron hasta el tercer día, porque la gente estaba muy cansada y enferma, y ya no les quedaba más <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/580"><hi rend="italic">munición</hi></term>.</p>
+
+        <p>Estando las cosas así convinieron los <hi rend="italic">Naperrus</hi> con los <hi rend="italic">Payenbas</hi> y se obligaron entre sí que al capitán <hi rend="italic">Jann Eyollas</hi> y á los suyos les darían muerte ó los acabarían, como que así más tarde también lo cumplieron. Y eso que <hi rend="italic">Jann Eyollas</hi>, el capitán, con los Cristianos, marchaban de los <hi rend="italic">Naperrus</hi> á los <hi rend="italic">Pyembas</hi>, á medio camino como estaban y al descuido fueron sorprendidos por los <hi rend="italic">Naperrus</hi> y <hi rend="italic">Pyembas</hi> con gran fuerza en un espeso bosque; porque los <hi rend="italic">Naperrus</hi> y <hi rend="italic">Pyennbas</hi>, según su convenio de sorprender[los] en la selva por donde tenían que pasar [los] Cristianos, embistieron sin piedad al capitán y [á los] Cristianos, como si fuesen perros rabiosos, y acabaron de matar y destruir á los debilitados Cristianos junto con el capitán <hi rend="italic">Jann</hi>
+        <pb n="185" facs="185.jpg"/> 
+             
+        <hi rend="italic">Eyollas</hi> de suerte que ni uno de ellos escapó. Dios se apiade de ellos y de todos nosotros y nos tenga misericordia.</p>
+      </div>
+    </body> 
+</text>
+</TEI>

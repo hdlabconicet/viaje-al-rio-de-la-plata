@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="10">
+
+        <pb n="153" facs="153.jpg"/>
+        <head>CAPÍTULO X</head>
+        <head type="titulocapitulo">EXPEDICIÓN DE JORGE LUJÁN</head>
+        
+        <p>Ahora, pues, nuestro capitán general <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/24"><hi rend="italic">thon Pietro Manthossa</hi></persName> vió que no podía mantener la gente por más tiempo allí, así ordenó y mandó él á una con sus capitanes, que se aprontasen cuatro pequeñas embarcaciones que habían de navegar á remo, y se llaman <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/437"><hi rend="italic">parckhadiness</hi> (Bergantines)</term>, en que entraban hasta 40 hombres ; como también otras tres menores á que llaman <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/921"><hi rend="italic">podel</hi> (batel)</term> ó <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/919"><hi rend="italic">potht</hi> (bote)</term>, y cuando los 7 navíos estuvieron listos y provistos hizo que el capitán nuestro reuniese toda la gente y envió á <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/75"><hi rend="italic"><note ana="Jorge Luján">Jerg Lichtenstein</note></hi></persName> con 350 hombres armados <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/406">río <hi rend="italic">Parnau</hi></placeName> arriba, á que descubriesen Indios, que nos proporcionasen comida y víveres. Pero ni bien nos sintieron los Indios nos jugaron una de las peores, porque empezando por quemar y destruir su pueblo, y cuanto tenían de comer, en seguida huyeron todos de allí; y así tuvimos que pasar adelante sin más de comer que tres onzas de pan al día en <hi rend="italic">pischgosche</hi> (biscocho).</p>
+        
+        <pb n="154" facs="154.jpg"/>
+        
+        <p>La mitad de la gente se nos murió en este viaje de esta hambre sin nombre, y la otra mitad hubo que hacerla volver al susodicho pueblo, do se hallaba nuestro Capitán General. <hi rend="italic">Thonn Pietro Manthossa</hi> quiso tomar razón á <hi rend="italic">Jergen Lichtensteinen</hi>, nuestro capitán en este viaje, porqué tan pocos habíamos vuelto siendo que la ausencia sólo había durado 2 meses; á lo que le contestó éste que de hambre habían muerto, porque los Indios habían quemado la comida que tenían y habían huido, como ya se dijo antes en pocas palabras.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="36">
+      <pb n="213" facs="213.jpg"/>
+        <head>CAPÍTULO XXXVI</head>
+        <head type="titulocapitulo">LLEGAN Á LOS "SCHERUESS" Y SON BIEN RECIBIDOS POR ELLOS</head>
+        <p>Después de esto llegamos á los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/825"><hi rend="italic">Scheruess</hi> (Xarayes)</term>, hasta donde de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/629"><hi rend="italic">Acheres</hi></term> se cuentan 38 <hi rend="italic">millas</hi> (leguas), que las hicimos en 9 días es una nación grande, pero no era esta justamente la nación en que vivía el rey; mas estos <hi rend="italic">Scherues</hi> (Xarayes) con quienes habíamos dado usan bigote y llevan un redondel de palo colgado en el lóbulo de las orejas y la oreja abraza el redondel de palo, cosa que maravilla de ver.</p>
+        <p>Item más los hombres tienen en el labio una piedra ancha de cristal azul muy parecida á una dama. Item más se pintan el cuerpo de azul desde arriba hasta las rodillas, y la cosa se parece á algo como calzas pintadas.</p> 
+        <p>Pero las mujeres se <note ana="Como menciona Terreros y Pando en su diccionario de 1787, refiere a pintarse como hacen los indidios con varios colores">embijan</note> de otra manera, también de azul desde los pechos hasta las vergüenzas, tan artísticamente, que así no más, fuera de allí, no se hallaría un pintor que lo imitase; ellas andan como las echó al mundo la madre, y son hermo-
+      <pb n="214" facs="214.jpg"/>      
+        sas á su manera, y muy bien que saben pecar estando á obscuras.</p>
+        <p>Con estos <hi rend="italic">Scherues</hi> (Xarayes) nos quedamos un día y navegamos desde allí hasta llegar en 3 días á lo de un rey, que está á 14 <hi rend="italic">millas</hi> (leguas) de allá [su gente]. Se llaman también <hi rend="italic">Scherues</hi> (Xarayes), pero su tierra no tiene más que 4 <hi rend="italic">millas</hi> (leguas) de camino de ancho; también tiene él un pueblo situado á orillas del agua <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/421"><hi rend="italic">Paraboe</hi></placeName>. Allí dejamos nuestro navío con 12 Españoles, que lo cuiden, para que cuando llegásemos nos sirviese de amparo; les encargamos también á estos <hi rend="italic">Scherues</hi> (Xarayes) en el propio pueblo, que tenían que portarse como buenos amigos con los Cristianos, como que también así lo hicieron.</p>
+        <p>Así pues nos quedamos 2 días enteros en el pueblo y nos aprestamos para el viaje y nos tomamos cuanto nos hacía falta; después cruzamos el agua <hi rend="italic">Paraboe</hi> y llegamos á lo del rey, allá donde vive en persona. Y allí cuando llegamos nosotros como á una <hi rend="italic">milla</hi> (legua) de distancia, entonces nos salió al encuentro el rey de los  <hi rend="italic">Scherues</hi> (Xarayes) con 12.000 hombres y tal vez más, en una pampa y en son de paz. El camino por donde andaban ellos era de 8 pasos de ancho; el tal camino estaba entapizado con puras flores y pasto hasta el pueblo, así que no se podía dar con una piedra, palo ó
+      <pb n="215" facs="215.jpg"/>  
+        paja alguna; también el rey se traía su <hi rend="italic">música</hi> consigo, tal y como el caramillo entre nosotros; también había mandado el rey que para esta ocasión se corriesen <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">venados</term> y otras salvajinas, á uno y otro lado del camino; así por suerte ellos habían cogido 30 venados y 20 <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32"><hi rend="italic">abestraussen</hi> (avestruces)</term>, ó <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32"><hi rend="italic">nandú</hi> (ñandú)</term>; y era cosa de alegrarse de ver.</p>
+        <p>Y cuando nosotros hubimos ya llegado á su pueblo, hizo el rey que cada 2 Cristianos entrasen en una casa, y que nuestro capitán junto con su servidumbre pasase á la casa real; después de esto el rey de los <hi rend="italic">Scherues</hi> encargó á sus súbditos, que nos diesen lo que nos hacía falta. También el rey reunió su corte á su manera como el más poderoso señor de la tierra; hay que hacerle música á la mesa cuantas veces se le antoja; entonces los hombres y las mujeres más hermosas tienen por obligación que bailarle; el tal baile de ellos es cosa de verse como maravilla, en especial para nosotros los Cristianos, de suerte que uno tiene que olvidarse hasta de su boca.</p>
+        <p>Esta gente se parece á los <hi rend="italic">Scherues</hi> (Xarayes), de los que se dijo ya más atrás. Sus mujeres
+      <pb n="216" facs="216.jpg"/>      
+        hacen unas mantas grandes de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/930">algodón</term>, tan sutiles como tela de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/441"><hi rend="italic">Arlas</hi> (Arles)</placeName>, en las que ellas después bordan varias figuras como ser venados, avestruces, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/644">ovejas de Indias (llamas ó guanacos)</term>, ó lo que sea que se puede. En las tales mantas duermen cuando hace frío, ó se sientan sobre ellas, según la necesidad ó el antojo del momento. Estas mujeres son muy hermosas y grandes enamoradas; muy corrientes y de naturaleza muy ardiente á mi modo de ver.</p>
+        <p>Allí nos demoramos unos 4 días, y en ese tiempo el rey preguntó á nuestro capitán cual era nuestro deseo é intención, y hacia donde queríamos marchar. A esto contestó nuestro capitán que él buscaba oro y plata. También le dió el rey una corona de oro que pesaba casi un marco y medio, ítem una <hi rend="italic">plenschen</hi> (plancha) de oro, que alcanzaba á jeme y medio de largo y á medio jeme de ancho; también un <hi rend="italic">prusseleh</hi> (brazalete) esto es, un medio <hi rend="italic">harnischs</hi> (arnés) y otras cosas más de plata, y dijo después á nuestro capitán, que él ya no tenía más oro ni plata y que estas susodi-
+      <pb n="217" facs="217.jpg"/>
+        chas piezas las había tomado de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/838"><hi rend="italic">Amossenes</hi> (Amazones)</term> en la guerra en tiempos atrás. Y entonces él se hizo oir acerca de los <hi rend="italic">Amossenes</hi> (Amazones) y nos dio á entender cuán grande era su riqueza, así que nos alegramos mucho; y luego al punto preguntó nuestro capitán al rey si podríamos nosotros llegar allí por agua con nuestros navíos y qué distancia habría hasta los dichos <hi rend="italic">Amossenes</hi> (Amazones). A lo que contestó el rey, que no podríamos nosotros llegar allí por agua, sino que tendríamos que marchar por tierra y habría que andar 2 meses de tiempo uno en seguida de otro. Así resolvimos nosotros caminar á los dichos <hi rend="italic">Amossenes</hi> (Amazones), como se pasará á contar.</p>
+      </div>
+    </body> 
+</text>
+</TEI>

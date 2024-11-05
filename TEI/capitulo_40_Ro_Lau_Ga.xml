@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="40">
+        <pb n="229" facs="229.jpg"/>
+        <head>CAPÍTULO XL</head>
+        <head type="titulocapitulo">PRISIÓN DE CABEZA DE VACA. SU DEPORTACIÓN Á ESPAÑA. ELECCIÓN DE MARTÍNEZ DE IRALA</head>
+
+          <p>Mas en este caso no se guardó respeto alguno á la persona, sino que este nuestro capitán en todas las cosas quiso obedecer á su propia inspiración lleno de humos y de arrogancia.</p>
+          <p>Entonces resolvió todo el <hi rend="italic">común</hi>, nobles y plebeyos, hacer junta y asamblea; pretendían prender á este capitán general <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/126"><hi rend="italic">Aluiso Capessa de Bacha</hi></persName> y mandárselo á la Cesárea Majestad, haciéndole saber á Su Majestad las bellas cualidades de aquél, cómo se había portado con nosotros, y cómo había entendido él que debía gobernar, con muchos otros cargos más. En seguida, según lo convenido,
+        <pb n="230" facs="230.jpg"/>
+          se buscaron á estos 4 señores, á saber: el <note ana="Jefe militar cuyas funciones eran semejantes a las de los modernos inspectores y directores generales">veedor</note>, tesorero y escribano, puestos por la Cesárea Majestad cuyos nombres eran <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/88"><hi rend="italic">Aluiso Gabrero</hi> (Alonso Cabrera)</persName>, <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/125">thonn <hi rend="italic">Francisco Manthossa</hi></persName>, <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/224"><hi rend="italic">Gartzo Hannego</hi> (García Benegas)</persName>, <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/132"><hi rend="italic">Pfielogo de Gastro</hi> (Felipe de Cáceres)</persName> y tomaron consigo 200 soldados ó <hi rend="italic">lanskenetes</hi> y después se apoderaron de la persona de <hi rend="italic">Aluiso Capessa de Bacha</hi>, nuestro capitán general, cuando él de tal cosa nada sospechaba. Y esto sucedió el día de San Marcos (Abril 25), año de 1553 (1543). Tuvieron preso al dicho <hi rend="italic">Aluisso Capessa de Bacha</hi> un año entero hasta que se dispuso un navío llamado <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/492"><hi rend="italic">Carabela</hi></term>, provisto de víveres y de marineros y de lo que éstos podían necesitar en la mar, en la que en seguida despacharon al tantas veces nombrado <hi rend="italic">Aluiso Capessa de Bacha</hi> á <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/317"><hi rend="italic">Spania</hi></placeName> junto con dos señores más de los de la Cesárea Majestad.</p>
+          <p>Después de esto no hubo más que elegir á otro que rigiese y gobernase en la tierra, hasta tanto la Cesárea Majestad misma proveyese alguno á la vacante; y en seguida tuvimos á bien, de acuerdo con el parecer y voluntad del <hi rend="italic">común</hi> que se eli-
+       <pb n="231" facs="231.jpg"/>    
+          giese á <persName><hi rend="italic">Marthin Doménigo Eyolla</hi></persName> de capitán, en la misma capacidad con que antes había gobernado la tierra, muy particularmente porque la gente de pelea se llevaba bien con él, y los más estaban contentos con él; esto no obstante, entre ellos había algunos, que habían sido amigos del ya dicho capitán general nuestro que fué <hi rend="italic">Aluiso Capessa de Bacha</hi>; á éstos no les hizo mucha gracia la cosa, mas no hicimos mucho caso de ello.</p>
+          <p>Por este tiempo me sentí mal y enfermo de hidropesía que yo y mis camaradas conmigo habíamos sacado de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/841"><hi rend="italic">Orthueses</hi></term>, allí donde por tanto tiempo anduvimos en el agua, como se dijo ya, y fué tan grande la miseria porque pasamos; en esa ocasión enfermaron 80 de los nuestros y sólo unos 30 escaparon con vida de sus dolencias.</p>
+      </div>
+    </body> 
+</text>
+</TEI>

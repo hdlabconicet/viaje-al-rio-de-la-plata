@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="18">
+
+        <pb n="166" facs="166.jpg"/>
+        <head>CAPÍTULO XVIII</head>
+        <head type="titulocapitulo">LLEGAN Á LOS ZECHENNAUS SALUAISCHCO Y MEPENES</head>
+        
+        <p>De allí navegamos el <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/406"><hi rend="italic">Paranaw</hi></placeName> arriba y después de 4 días de viaje llegamos á una nación que se llama <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/672"><hi rend="italic">Zechennaus Saluaischco</hi> (Chaná-Salvajes)</term>, [son] gente petiza y gruesa, no tienen más de comer que pescado y miel. Esta gente, tanto hombres como mujeres, mozos como viejos, andan en cueros vivos, así como fueron lanzados al mundo,
+        <pb n="167" facs="167.jpg"/>
+        de suerte que no visten ni un trapillo ni cosa alguna que les sirva para tapar las vergüenzas; están de guerra con los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/667"><hi rend="italic">Machueradeiss</hi></term>; y su carne es la de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">ciervos</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/648">chanchos del monte</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32">avestruces</term> y <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/649">conejos</term> que parecen ratones, pero sin la cola.</p>
+        <p>Esta nación está á 18 <hi rend="italic">millas</hi> (leguas) de los <hi rend="italic">Machueradeis</hi>. Esta jornada la hicimos en 4 días. Permanecimos sólo una noche con ellos, porque ni para ellos tenían de comer; es una nación que se parece á los salteadores de caminos de nuestro país. Viven ellos á unas 20 <hi rend="italic">millas</hi> (leguas) del <hi rend="italic">agua</hi> (el río), para evitar que los tomen de sorpresa sus enemigos. Pero en esta ocasión habían bajado al agua 5 días antes de llegar nosotros para proveerse de pescado y para pelear con los <hi rend="italic">Machurades</hi>; son fuertes de unos 2.000 hombres.</p>
+
+        <p>De allí partimos y llegamos á una nación que se llaman <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/681"><hi rend="italic">Mapenuss</hi></term>. Estos son fuertes como de 100.000 hombres, viven en todas partes de aquella tierra, que se extiende por unas 40 <hi rend="italic">millas</hi> (leguas) á uno y otro viento, pero se los puede reunir á todos por tierra y agua en 2 días; tienen más <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/51">canoas</term> ó esquifes que cualquier otra
+        
+        <pb n="168" facs="168.jpg"/>
+        
+        nación de las que hasta allí habíamos visto; en cada una de estas canoas ó esquifes cabían hasta 20 personas.</p>
+
+        <p>Esta gente nos salió al encuentro por agua en son de guerra, con 500 canoas ó <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/577">esquifes</term>, pero sin sacarnos mayor ventaja. Les matamos á muchos con nuestros <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/397">arcabuces</term>, porque hasta entonces no habían visto arcabuces ni cristianos. Mas cuando llegamos á sus casas no les pudimos sacar ventaja alguna, porque el lugar distaba una <hi rend="italic">milla</hi> (legua) de camino del agua <hi rend="italic">Paranaw</hi>, donde teníamos los navíos, y sus pueblos estaban rodeados de agua muy profunda á todos vientos, así que no les pudimos hacer mal alguno, ni quitarles nada; y como hallamos 250 canoas, ó esquifes, las quemamos y destruimos. Tampoco nos pareció prudente apartarnos demasiado de nuestros navíos, porque recelábamos que nos pudiesen atacar por el lado opuesto; así, pues, nos volvimos á los navíos; porque la guerra que ellos hacen es sólo por agua.</p>
+        
+        <p>Hasta estos <hi rend="italic">Mapenus</hi>, desde la antedicha nación que acabamos de dejar (se cuentan) 95 <hi rend="italic">millas</hi> (leguas) de camino.</p>
+      </div>
+    </body> 
+</text>
+</TEI>

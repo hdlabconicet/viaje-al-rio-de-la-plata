@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Urich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Gabriel Calarco</editor>
+        <editor n="3">Laura Volkind</editor>
+          <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+        <div type="capitulo" n="8">
+
+        <pb n="149" facs="149.jpg"/>
+        <head>CAPÍTULO VIII</head>
+        <head type="titulocapitulo">LA BATALLA CON LOS INDIOS QUERANDÍ</head>
+
+        <p>Y cuando les llevamos el asalto se defendieron con tanto brío que nos dieron harto que hacer en aquel día. Mataron también á nuestro capitán <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/82"><hi rend="italic">thon Diego Manthossa</hi></persName> y con él á 6 hidalgos de á pie y de á caballo. De los nuestros cayeron unos 20 y de los de ellos como mil. Así, pues, se batieron tan furiosamente que salimos nosotros bien escarmentados.</p> 
+       
+        <pb n="150" facs="150.jpg"/>
+        <p>Estos <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/553"><hi rend="italic">Carendies</hi></term> usan para la pelea <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/433">arcos</term>, y unos <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/560"><hi rend="italic">dardes</hi> (dardos)</term>, especie de media lanza con punta de pedernal en forma de trisulco. También emplean unas <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/564"><note ana="boleadoras">bolas de piedra</note></term> aseguradas á un cordel largo; son del tamaño de las balas de plomo que usamos en Alemania. Con estas bolas enredan las patas del caballo ó del venado cuando lo corren y lo hacen caer. Fué también con estas bolas que mataron á nuestro capitán y á los hidalgos, como que lo vi yo con los ojos de esta cara, y á los de á pie los voltearon con los dichos <hi>dardes</hi>.</p>
+        
+        <p>Así, pues, Dios, que todo lo puede, tuvo á bien darnos el triunfo, y nos permitió tomarles el pueblo; mas no alcanzamos á apresar uno sólo de aquellos Indios, porque sus mujeres é hijos ya con tiempo habían huido de su pueblo antes de atacarlos nosotros. En este pueblo de ellos no hallamos más que mantos de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/568"><hi rend="italic">nuederen</hi> (nutrias) ó <hi rend="italic">ytteren</hi></term> como se llaman, <hi rend="italic">iten</hi> harto pescado, harina y grasa del mismo; allí nos detuvimos 3 días y recién nos volvimos al real, dejando unos 100 de los nuestros en el pueblo para que pescasen con las redes de los Indios y con ello abasteciesen á
+        
+        <pb n="151" facs="151.jpg"/>
+        nuestra gente; porque eran aquellas aguas muy abundantes de pescado; la ración de cada uno era de 6 onzas de harina de trigo por día y al tercero un pescado. La tal pesquería duró dos meses largos; el que quería aumentar un pescado á la ración se tenía que andar 4 <hi rend="italic">millas</hi> (leguas) para conseguirlo.</p>
+    </div>
+</body>
+</text>
+</TEI>        

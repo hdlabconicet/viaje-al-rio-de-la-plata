@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="31">
+      <pb n="199" facs="199.jpg"/>
+        <head>CAPÍTULO XXXI</head>
+        <head type="titulocapitulo">LLEGA ALVAR NÚÑEZ CABEZA DE VACA Á SANTA CATALINA Y PASA Á LA ASUNCIÓN</head>
+        <p>Mientras esto llegó un capitán general de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/317"><hi rend="italic">Hispania</hi></placeName>, que se llamaba <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/126"><hi rend="italic">Albernuso Capesa de Wacha</hi></persName>; al tal capitán lo había nombrado la Majestad Cesárea y venía con 400 hombres y 30 <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/559">caballos</term> en 4 navíos, de los que 2 eran mayores y 2 <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/492"><hi rend="italic">Karabella</hi> (carabelas)</term>; y cuando él arribó con esta gente á un puerto ó bahía en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/213"><hi rend="italic">Presel</hi></placeName>, que se llama <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/488"><hi rend="italic">Wilsey</hi> (Mbiagá?)</placeName>, mas este puerto se llama también <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/488"><hi rend="italic">S. Katarinna</hi></placeName>;  allí quiso él cargar <hi rend="italic">bastimento</hi> ó víveres; y cuando el capitán despachó 2 carabelas unas 8 <hi rend="italic">millas</hi> (leguas) del dicho puerto á buscar víveres, les sobrevino tal tempestad, que las 2 tuvieron que quedar en el mar ó piélago y lo único que de ellas volvió fué la tripulación que en ellas había; cuando el capitán general se impuso de la tal cosa, ya no se quiso exponer con sus 2 navíos mayores al viaje por agua; acaso porque no sería mucha la gana que tenía es que se recelaba
+      <pb n="200" facs="200.jpg"/>  
+        de la cosa; y pasó por tierra hasta el <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/358"><hi rend="italic">Río delle Platta</hi></placeName>, y llegó hasta nosotros en el asiento <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/443"><hi rend="italic">Nostra Singnora</hi></placeName> en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/495"><hi rend="italic">El Paraboe</hi></placeName> y lo condujeron 300 de los 400 hombres; los demás habían perecido de hambre y de enfermedad.</p>
+        <p>Este capitán demoró 8 meses de tiempo en el camino y hay 500 <hi rend="italic">millas</hi> (leguas) de la ciudad <hi rend="italic">Nostra Singnora</hi> hasta este pueblo ó bahía de <hi rend="italic">S. Katarina</hi>. Traía pues consigo de Hispania su <hi rend="italic">gubernazión</hi> (provisión?) de la Cesárea Majestad, y decía que <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/90"><hi rend="italic">Marthín Domenigo Eyolla</hi> (Irala)</persName>, nuestro capitán, tenía que entregarle su <hi rend="italic">gubernazión</hi> (gobernación) y que toda la gente había de acatarlo.</p>
+        <p>A todo esto el capitán <hi rend="italic">Marthín Domenigo Eyolla</hi> (Irala) y toda la gente se declaró estar pronta y obediente, pero con esta salvedad, que él <hi rend="italic">Albernuso Capossa de Wacha</hi> le mostrase algo como que él había obtenido y recibido la tal provisión de la susodicha Cesárea Majestad; misterio este que el común de la gente no pudo esclarecer, sino que los sacerdotes y 2 ó 3 de los oficiales lo verificaron y con ellos él, <hi rend="italic">Albernuss Capossa etc.</hi>, mandó y gobernó. Pero de cómo le fué es lo que se contará más tarde.</p>
+      </div>
+    </body> 
+</text>
+</TEI>

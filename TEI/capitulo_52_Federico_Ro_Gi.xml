@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Viaje al Río de la Plata (1534-1554)</title>
+                <author>Ulrich Schmidel</author>
+                <editor n="1">Romina de León</editor>
+                <editor n="2">Gabriel Calarco</editor>
+                <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>HD LAB</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+                    <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+                    <date>1903</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="capítulo" n="52">
+          <pb n="280" facs="280.jpg"/> 
+          <head>CAPÍTULO LII</head>
+           <head type="titulocapitulo">PASAN POR LOS TUPÍ. SU DESCRIPCIÓN. LLEGAN AL PUEBLO DE JUAN KAIMUNNELLE (RAMALLO)</head>
+            <p>Ahora empieza la tierra del Rey de Portugal, a saber, la de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/40"><hi rend="italic">Thopiss</hi> (Tupí)</term>; ahí tuvimos que dejar el <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/406"><hi rend="italic">Parnau</hi> (Paraná)</placeName> y las <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/519"><hi rend="italic">cannanon </hi>(canoas)</term>, y marchar por tierra a los <hi rend="italic">Thopis</hi> (Tupí), y caminamos 6 semanas largas por desiertos, cerros y valles, en que [por miedo] de las fieras del campo no podíamos dormir tranquilos; y hay entre el susodicho pueblo  <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/524"><hi rend="italic">Gienge</hi></term> y los <hi rend="italic">Thopis</hi> 126 <hi rend="italic">millas</hi> (le-
+          <pb n="281" facs="281.jpg"/>  
+            guas), de camino. Estas naciones <hi rend="italic">Thopis</hi> se <note ana="El canibalismo fue una característica que los españoles impusieron a los pueblos nativos americanos. Cristobal Colón en sus diarios inauguró esa imaginería, enmarcada en las fábulas medievales que traían consigo los europeos, para ese territorio y pobladores desconocidos.">comen a la gente</note>, cuando es enemiga; no hacen otra cosa que andar siempre en guerra, y cuando vencen a sus enemigos, conducen ellos los prisioneros a su pueblo tal y como en la tierra aquí (<placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/419">Baviera</placeName>) se dispone una boda; y cuando es llegado el tiempo en que quieren acabar con los prisioneros o matarlos, se preparan ellos una gran ceremonia con este fin; pero hasta tanto por lo que es el hombre prisionero, se le da cuanto se le antoja o que puede desear, como ser mujeres con quienes holgar o cosas de comer, lo que el corazón le pida, hasta que llega la hora en que tiene (de morir). Su gusto y su encanto está en la guerra perpetua. <hi rend="italic">Iten</hi> [ellos] beben, y comen y están día y noche borrachos; también son amigos del baile, y llevan a tal extremo la vida de adulterio, que no es para contada; es una gente fiera, ambiciosa y soberbia; hacen <note ana="Este tipo de bebidas fermentadas del maíz u otro cereal, se conoce como chicha.">vino del <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/631">trigo turco (maíz)</term></note> con el que se llenan, tal como cualquiera aquí se toma el mejor de los vinos; tienen idioma parecido [al de] los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/629"><hi rend="italic">Caríos</hi></term>, con los que bien poca es la diferencia que hay.</p>
+            <p>De allí llegamos nosotros a un pueblo llamado <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1006"><hi rend="italic">Karieseba</hi></placeName>, son también <hi rend="italic">Thopis</hi>, están de guerra con los Cristianos, mas los anteriores son amigos de los Cristianos; eso que llegamos el <note ana="En el catolicismo, el Domingo de Ramos es el que precede a la Semana Santa, que conmemora la llegada de Jesús a Jerusalén, y por ello se extendieron ramas de palma en su camino.">Domingo
+          <pb n="282" facs="282.jpg"/>
+            de Palmas</note> a 4 <hi rend="italic">millas</hi> (leguas) de un pueblo, nos convencimos que teníamos que guardarnos bien de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1007"><hi rend="italic">Karieseba</hi></term>; y esta vez, con ser que estábamos en tanta escasez de bastimento, tuvimos sin embargo que caminar un poco más en busca de comida, pero no pudimos contener a 2 de nuestros compañeros, que a pesar de nuestro buen consejo se metieron en el pueblo; les prometimos pues esperarlos, lo que allí también se cumplió. Pero ni bien entraron ellos al pueblo fueron muertos y comidos en seguida. ¡Quiera Dios apiadarse de ellos! Amén. </p>
+            <p>Después de esto se nos presentaron estos mismos Indios en número como de 50 hombres a distancia de 30 pasos; traían puesta la ropa de los Cristianos y se pararon y platicaron con nosotros; pero es costumbre entre estos Indios, que si alguno se para á pocos pasos de su enemigo y platica con él, nada de bueno le está urdiendo. A esto cuando lo advertimos, nos preparamos lo mejor que pudimos con nuestras armas y les preguntamos a donde habían quedado nuestros compañeros, allí dijeron ellos que estaban en su pueblo y que nosotros también deberíamos pasar allá; mas nosotros no lo quisimos hacer, porque bien les conocimos la mala intención. En seguida nos hicieron disparos con sus <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/433">arcos</term>, pero no nos resistieron mucho tiempo, sino que dispararon a su pueblo y al punto trajeron de allí hasta unos 6.000 contra 
+          <pb n="283" facs="283.jpg"/>
+            nosotros; pero nosotros en tal apuro no teníamos más amparo que un bosque grande y cuatro  <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/397">arcabuces</term> junto con 20 (60) Indios de los <hi rend="italic">Caríos</hi>, que nos habíamos traído de la ciudad <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/443"><hi rend="italic">Nostra Singnora de Sunssión</hi></placeName>; así, pues, nos sostuvimos allí unos 4 días con sus noches, en que nos hacíamos continuas descargas, y en la cuarta noche con todo sigilo abandonamos el bosque y marchamos de allí, porque no teníamos mucho que comer, y los enemigos también empezaban a llevarnos ventaja; como dice el refrán: porque son muchos los perros muere la liebre.</p>
+            <p>De allí marchamos nosotros 6 días seguidos por bosques desamparados, como que en mis días (y eso que he andado la seca y la meca) no he visto iguales, ni he viajado por camino más enmarañado; tampoco teníamos que comer, y por eso había que remediarnos con miel y raicecillas que encontrábamos; también se apoderó de nosotros desconfianza de que el enemigo nos alcanzase, si nos permitíamos aunque no fuese más que el tiempo para cazar alguna salvagina del campo.</p>
+            <p>Así llegamos a una nación llamada <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/504"><hi rend="italic">Biessaie</hi>(Mbiaçá)</term>, allí paramos 4 días largos e hicimos bastimento, mas no nos atrevimos a entrar en el pueblo, siendo nosotros los pocos que éramos. Cerca de esta nación está un agua (río) llamado <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/458"><hi rend="italic">Urquaie</hi>(Uruguay)</placeName>; allí vimos  víboras o ser-
+          <pb n="284" facs="284.jpg"/>  
+            pientes, llamadas en su lengua de Indios <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/670"><hi rend="italic">schue éyba thuescha</hi></term>; es de 14 pasos de largo y 2 brazadas de grueso en el medio; hacen mucho daño, por ejemplo, cuando se baña la gente, o bebe una fiera de la misma agua o se pone a nadar sobre el agua, así se le arrima una serpiente de éstas debajo del agua, nada hasta donde está el hombre, o la fiera, y lo envuelve en la cola, zambulle en seguida bajo del agua y se lo come; porque siempre se mantiene con la cabeza a flor de agua y observa a ver si se presenta algo que sea hombre o bestia, que pueda matar y envolver.</p>
+            <p>De allí marchamos nosotros adelante un mes largo y seguido, 100 <hi rend="italic">millas</hi> (leguas) de camino, y llegamos a un pueblo grande llamado <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/536"><hi rend="italic">Scherebethuebá</hi></term>, allí nos quedamos 3 días y estábamos muy rendidos; no nos había sobrado de comer, porque nuestro principal alimento era miel, con lo que estábamos todos sin fuerzas; así, pues, cualquiera puede con lo dicho hacerse cargo de los peligros y de la pobre y mala vida que fue la nuestra en tan dilatado viaje, muy particularmente en lo tocante a la comida, bebida y dormidas; la cama que cada uno traía consigo, pesaba 4 ó 5 libras, (y) era de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/930">algodón</term>; se hacen en forma de red, se atan a 2 árboles, y allí se echa encima cada uno; esto se hace en el bosque bajo del azulado cielo; 
+          <pb n="285" facs="285.jpg"/>
+            porque si no son muchos los que juntos marchan por tierra en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/324"><hi rend="italic">Indiam</hi> (Indias)</placeName>, es más seguro sacarla bien en el bosque que en las casas o pueblos de los Indios.</p>
+            <p>Ahora marchamos nosotros a un pueblo que pertenece a los Cristianos, en que el principal se llama <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/203"><hi rend="italic">Johann Kaimunnelle</hi> (Juan Ramallo)</persName> y por suerte nuestra no estaba en casa, porque este pueblo me pareció una cueva de ladrones; fue que el dicho principal estaba en casa de otro cristiano en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/208"><hi rend="italic">Vincendo</hi> (San Vicente)</placeName> y estos desde ya antes estaban por entrar en un arreglo entre sí; estos 800 Cristianos, pues, en los 2 pueblos dependen del rey de Portugal, y del dicho <hi rend="italic">Kaimunnelle</hi> (Ramallo), quien según él mismo lo asegura hace ya 40 años largos que ha vivido, mandado, peleado y conquistado en tierra de Indias, razón por la que quiere seguir mandando en la misma con preferencia a cualquier otro, cosa que el otro tal no se la consiente, y por lo tanto se hacen entrambos la guerra; y este más nombrado <hi rend="italic">Kaimunnelle</hi> (Ramallo) puede en un día reunir 50.000 Indios, mientras que el rey no reúne 2.000; tanto es el poder y el prestigio de que él goza en la tierra.</p>
+            <p>Pero sucedió que el hijo del tantas veces nombrado <hi rend="italic">Kaimunnelle</hi> (Ramallo) había estado allí cuando llegamos nosotros al susodicho pueblo,
+          <pb n="286" facs="286.jpg"/>
+            quien nos recibió bien, aunque nosotros teníamos que desconfiar más de él que de los Indios; mas como aquí nos fue bien, demos siempre gracias a Dios el Creador por Cristo Jesús, su único Hijo, que hasta aquí tanto nos ha favorecido y de todos modos nos ha amparado.</p>
+            </div>
+        </body>
+
+    </text>
+</TEI>
