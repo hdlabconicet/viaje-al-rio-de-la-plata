@@ -11,10 +11,10 @@
                     <!-- Recuperamos el id del documento en una variable para nombrar el archivo de salida -->
                     <!-- Redirigir el resultado hacia un archivo -->        
                     <xsl:result-document method="html" encoding="utf-8"
-                        href="_pages/{$doc_id}.html" omit-xml-declaration="yes">---
+                        href="_pages/p{$doc_id}.html" omit-xml-declaration="yes">---
         layout: textoporpagina
-        title: <xsl:apply-templates select="$doc_id"/>
-        permalink: <xsl:apply-templates select="$doc_id"/>
+        title: p<xsl:apply-templates select="$doc_id"/>
+        permalink: p<xsl:apply-templates select="$doc_id"/>
        ---
        <div class="row">
     <div class="col-left">
