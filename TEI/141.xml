@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Urlich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Gabriel Calarco</editor>
+        <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="capitulo" n="2">
+      <pb n="141" facs="141.jpg"/>
+        <p><term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/577">esquife</term> llamado <hi rend="italic">pot</hi> (bote) ó <hi rend="italic">podell</hi> (batel). Eso que se acercaba y estaba ya por poner pie en tierra, lo esperaban allí más de 30 hombres armados con <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/397">arcabuces</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/584">lanzas</term> y <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/585">alabardas</term>, dispuestos á tomar preso á nuestro capitán <hi rend="italic">Hainrich Paimen</hi>.</p>  
+              
+        
+        <p>En el mismo instante uno de su gente le advirtió que no saltase á tierra sino que se volviese á bordo; entonces el capitán se dispuso regresar al navío, mas no le dieron tiempo; porque los de tierra se le habían acercado demasiado en otras barquillas, que estaban allí ya preparadas: con esto y todo logró escapárseles á otro navío que se hallaba más cerca de la tierra. Como la gente no pudo tomarlo en seguida hicieron <note ana="Dar la señal de alarma ante cualquier peligro.">tocar á rebato</note> en la ciudad de <hi rend="italic">Palman</hi>, cargaron 2 piezas de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/587">artillería</term> gruesa, y con ellas hicieron 4 descargas contra nuestro navío, pues nos hallábamos no muy distantes de la tierra. Con el primer tiro nos agujerearon el <note ana="Cangilón es un recipiente grande de barro o metal, principalmente en forma de cántaro, que sirve para transportar, contener o medir líquidos.">canjilón</note> que estaba en la popa lleno de agua fresca, de la que se derramaron 5 ó 6 baldadas. Después nos hicieron pedazos la <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/916">mesana</term>, que es el último <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/917">mástil</term>, el más inmediato á la <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/915">popa</term>. El tercero nos acertó abriéndonos un boquerón en el costado del navío, y nos mató un hombre. El cuarto nos erró del todo.</p>
+
+        <p>Estaba también otro capitán presente que tenía su navío á la par del nuestro, con rumbo á <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=373"><hi rend="italic">New Hispanien</hi> (Nueva España) (ó sea) <hi rend="italic">Mechssekhen</hi> (México)</placeName>: este se hallaba en tierra con 150 hombres, y cuando supo de nuestro combate, trató de hacer las paces entre nosotros y los de la ciudad,</p>
+
+        </div>
+
+    </body> 
+  </text>
+</TEI>        
