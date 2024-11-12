@@ -40,6 +40,7 @@ p {
   margin-bottom: 0.5em;
   text-align: justify;
   text-justify: inter-word;
+  font-size: 1.3em
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,19 +55,21 @@ h4, .h4 { font-size: $h4-size; }
 h5, .h5 { font-size: $h5-size; }
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
-a {
-  text-decoration: none;
-  padding-bottom: 1px;
-   border-bottom: 2px dotted #841212; 
-   color: black;
+a:hover {
+  //  text-decoration: 
+  //  padding-bottom: 1px;
+  // border-bottom: 2px dotted #841212; 
+  //   color: black;
   // border-bottom: 1px solid currentColor;
+  background-color:peachpuff;
+
 }
 
-a:hover {
-  color: $color-primary-link;
-  text-decoration: none;
-  // border-bottom: 1px dotted;
-  // color: #841212;
+a{
+color: $color-primary-link;
+text-decoration: none;
+border-bottom: 1px solid currentColor;
+
 }
 
 label {
