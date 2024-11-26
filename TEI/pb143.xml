@@ -25,15 +25,18 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text><body><div type="capitulo" n="4">
-
-        <pb n="143" facs="143.jpg"/>
+  <text><body>
         
+       <pb n="143" facs="143.jpg"/>
+
+<div type="capitulo" n="3">
+        <p>mos salido. Permanecimos allí 5 días, y de nuevo abastecimos el navío de provisiones frescas y de mesa, como ser: pan, carne, agua y todo lo demás que se necesita en alta mar.</p>
+        </div>
+<div type="capitulo" n="4">
         <head>CAPÍTULO IV</head>
         <head type="titulocapitulo">VIAJAN POR ALTA MAR Y DESCRIBE SUS MARAVILLAS</head>
         <p>Así toda la flota, á saber los 14 navíos, se volvieron á reunir. Nuevamente salimos mar afuera y navegamos por dos meses hasta que arribamos á una isla en que no había más que aves que matábamos á garrotazos. En este lugar demoramos 3 días. La isla está del todo despoblada; tiene de ancho y largo unas 6 <hi rend="italic">millas</hi> (leguas) á todo viento y dista de la susodicha isla de <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=380"><hi rend="italic">San Augo</hi> (Santiago)</placeName>, de donde habíamos partido, 1.500 <hi rend="italic">millas</hi> (leguas).</p>
-        <p>En este mar hay <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=588">peces voladores</term>, y otros muy grandes de la especie de las <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=590">ballenas</term>; otros también grandes, llamados <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=593"><hi rend="italic">Ichaub-huet-fischs</hi> (pez sombrero de paja)</term> en razón de que un disco extremadamente grande les tapa la cabeza, con el que pueden ofender á los demás peces en sus
-        <pb n="144" facs="144.jpg"/>
-        peleas. Son peces de mucha fuerza y muy malos. Otros hay de cuyo lomo nace una especie de cuchilla de hueso de ballena, y se llaman en castellano <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=595"><hi rend="italic">pes espade</hi> (pez espada)</term>; y más otros con un serrucho de hueso de ballena que también arranca del lomo; son malos y grandes: se llaman <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=597"><hi rend="italic">pese de sere</hi> (pez sierra)</term>. Aparte de estos son muchos los peces raros que hay, cuya forma, tamaño y cualidades no puedo describir yo en esta vez.</p>
+        <p>En este mar hay <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=588">peces voladores</term>, y otros muy grandes de la especie de las <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=590">ballenas</term>; otros también grandes, llamados <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=593"><hi rend="italic">Ichaub-huet-fischs</hi> (pez sombrero de paja)</term> en razón de que un disco extremadamente grande les tapa la cabeza, con el que pueden ofender á los demás peces en sus</p>
+        
       </div>
     </body></text></TEI>

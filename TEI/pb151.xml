@@ -25,16 +25,18 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text><body><div type="capitulo" n="9">
+  <text><body>
 
         <pb n="151" facs="151.jpg"/>
+
+<div type="capitulo" n="8">
+         <p>nuestra gente; porque eran aquellas aguas muy abundantes de pescado; la ración de cada uno era de 6 onzas de harina de trigo por día y al tercero un pescado. La tal pesquería duró dos meses largos; el que quería aumentar un pescado á la ración se tenía que andar 4 <hi rend="italic">millas</hi> (leguas) para conseguirlo.</p>
+</div>
+
+<div type="capitulo" n="9">
         <head>CAPÍTULO IX</head>
         <head type="titulocapitulo">SE FORTIFICA BUENOS AIRES Y SE PADECE HAMBRE</head>
 
-        <p>Y cuando volvimos al real se repartió la gente en soldados y trabajadores, así que no quedase uno sin qué hacer. Y se levantó allí una <note ana="En realidad, estas ciudades eran fuertes militares, con perímetro de grandes murallas de piedra y adobe, utilizado como protección de otros conquistadores y de los pueblos indígenas.">ciudad</note> con un muro de tierra como de media lanza de alto á la vuelta, y adentro de ella una casa fuerte para nuestro general; el muro de la ciudad tenía de ancho unos 3 pies; mas lo que un día se levantaba se nos venía abajo al otro; á esto la gente no tenía qué comer, se moría de hambre, y la miseria era grande; por fin llegó á tal grado que ya ni los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=559">caballos</term> servían, ni alcanzaban á prestar servicio alguno. Así aconteció que llegaron á tal punto la necesidad y la miseria que por razón de la hambruna ya
-        <pb n="152" facs="152.jpg"/>
-        no quedaban ni <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=571">ratas</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=572">ratones</term>, ni <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=573">culebras</term>, ni <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=574">sabandija</term> alguna que nos remediase en nuestra gran necesidad é inaudita miseria; llegamos hasta comernos los zapatos y cueros todos.</p>
-       
-        <p>Y aconteció que tres españoles se robaron un rocín y se lo comieron sin ser sentidos; mas cuando se llegó á saber los mandaron prender é hicieron declarar con tormento; y luego que confesaron el delito los condenaron á muerte en horca, y los ajusticiaron á los tres. Esa misma noche otros Españoles se arrimaron á los tres colgados en las horcas y les cortaron los muslos y otros pedazos de carne y cargaron con ellos á sus casas para satisfacer el hambre. También un Español se comió al hermano que había muerto en la ciudad de <note ana="Manuel Mujica Láinez inicia su libro Misteriosa Buenos Aires (1950) con el cuento 'El hambre', basado en los hechos que Schmidel relata en este capítulo.">Bonas Ayers</note>.</p>
+        <p>Y cuando volvimos al real se repartió la gente en soldados y trabajadores, así que no quedase uno sin qué hacer. Y se levantó allí una <note ana="En realidad, estas ciudades eran fuertes militares, con perímetro de grandes murallas de piedra y adobe, utilizado como protección de otros conquistadores y de los pueblos indígenas.">ciudad</note> con un muro de tierra como de media lanza de alto á la vuelta, y adentro de ella una casa fuerte para nuestro general; el muro de la ciudad tenía de ancho unos 3 pies; mas lo que un día se levantaba se nos venía abajo al otro; á esto la gente no tenía qué comer, se moría de hambre, y la miseria era grande; por fin llegó á tal grado que ya ni los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=559">caballos</term> servían, ni alcanzaban á prestar servicio alguno. Así aconteció que llegaron á tal punto la necesidad y la miseria que por razón de la hambruna ya</p>
       </div>
     </body></text></TEI>

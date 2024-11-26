@@ -25,8 +25,14 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text><body><div type="capitulo" n="7">
+  <text><body>
             <pb n="147" facs="147.jpg"/>
+<div type="capitulo" n="6">
+      <p>güenzas con un paño de <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=930">algodón</term> que les cubre desde el ombligo hasta la rodilla.</p>
+      
+      <p>Entonces el general <hi rend="italic">thon Pietro Manthossa</hi> mandó que se vuelva á embarcar la gente, y que la hagan pasar á la otra banda del agua <placeName><hi rend="italic">Pernaw</hi> (Paraná)</placeName>, que allí no tiene más anchura que 8 millas (leguas) de camino.</p>
+    </div>
+<div type="capitulo" n="7">
             <head>CAPÍTULO VII</head>
             <head type="titulocapitulo">LA CIUDAD DE BUENOS AIRES Y LOS INDIOS QUERANDÍ</head>
 

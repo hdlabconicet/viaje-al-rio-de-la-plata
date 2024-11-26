@@ -17,7 +17,7 @@ theme_color: light
 markdown: kramdown
 
 collections:
-    pages:
-      output: true
+    # pages:
+    #   output: true
     recursos:
       output: true
