@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="38">
+        <pb n="222" facs="222.jpg"/>
+        <head>CAPÍTULO XXXVIII</head>
+        <head type="titulocapitulo">REGRESO DE HERNANDO DE RIBERA. SUBLEVACIÓN DE LA GENTE</head>
+
+        <p>Después de esto contramarchamos á los antedichos <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=851"><hi rend="italic">Syeborís</hi></term> y <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=825"><hi rend="italic">Scherues</hi> (Xarayes)</term>. Nosotros los Cristianos también estábamos mal provistos de ví-
+      <pb n="223" facs="223.jpg"/>
+        veres, no teníamos otra cosa de comer que una <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=811">pämb (palma) llamada <hi rend="italic">palmides</hi> (palmitos)</term> y <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=36"><hi rend="italic">cardes</hi> (cardos)</term> y otras raíces del campo que se crían bajo de tierra.</p>
+        <p>Cuando llegamos nosotros á los <hi rend="italic">Scherues</hi> estaba nuestra gente á la muerte de enferma por causa del agua, y de las necesidades que en este viaje habíamos sufrido; porque por 30 días y noches seguidas habíamos estado en el agua, y de la misma habíamos bebido. Así nos quedamos allí entre los <hi rend="italic">Scherues</hi>, donde vive el Rey, unos 4 días; nos trataron muy bien y nos sirvieron al pensamiento, y el Rey encargó á sus súbditos que nos cuidasen y nos diesen cuanto nos hacía falta.</p>
+        <p>Así en este viaje cada uno de nosotros se había ganado un valor como de 200 <note ana="Moneda de oro que se usó en España hasta fines del siglo XVI.">ducados</note> sólo en mantas de algodón de Indias y plata, que les habíamos comprado á ocultas, y sin que se sepa, por cuchillos, rosarios, tijeras y espejos.</p>
+        <p>Después de todo esto volvimos á navegar aguas abajo á juntarnos con nuestro capitán general <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=126"><hi rend="italic">Alwiso Capessa de Bacha</hi></persName> [Luego que llegamos á los navíos, ordenó él, <hi rend="italic">Albernunzo Capessa de Bacha</hi>] que so pena de la vida ni uno de nosotros
+      <pb n="224" facs="224.jpg"/>    
+        se moviese de los navíos, y se vino á vernos, él mismo <hi rend="italic">in persona</hi>, é hizo prender á nuestro capitán <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=160"><hi rend="italic">Ernando Rieffira</hi> (Hernando de Ribera)</persName>, y nos quitó [á los soldados cuanto] habíamos traído de tierra adentro, y por último y para colmo de todo, quería hacer ahorcar en un árbol á nuestro capitán <hi rend="italic">Ernando Rieffere</hi>. Mas nosotros, que aun estábamos en el navío <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=437"><hi rend="italic">bergentin</hi> (bergantín)</term> cuando supimos de la tal cosa, armamos un gran alboroto, juntándonos con otros buenos amigos, con que contábamos en tierra, contra nuestro capitán dicho general <hi rend="italic">Alberniso</hi> (Alvar Núñez) <hi rend="italic">Capessa de Bacha</hi>, es decir, para obligarlo á que soltase y dejase libre á nuestro capitán <hi rend="italic">Ernando Rieffere</hi>, como también que nos devolviese íntegramente lo nuestro que nos había robado y quitado, y que si nó, otro tanto le haríamos á él.</p>
+        <p>Cuando él, <hi rend="italic">Aluiso Capessa de Bacha</hi> se apercibió del alboroto nuestro, y se dió cuenta de nuestras malas intenciones, tuvo á bien, porque ello no pasase de ahí, poner en libertad á nuestro capitán, nos devolvió también todo lo que nos había quitado y nos habló con buenas palabras, y sólo así quedamos satisfechos. Mas como le fué después bien se enteró él: va en seguida.</p>
+      <pb n="225" facs="225.jpg"/>
+        <p>Y después de todo esto, cuando ya todo había sosegado, pidió él á nuestro capitán <hi rend="italic">Ernando Rieffire</hi> (Ribera) y á nosotros que le diésemos una relación de la tierra y que le contásemos como había sucedido que tanto nos habíamos demorado, como que en seguida le dimos una relación, con la que quedó muy contento. Que él así nos había recibido, prendiendo á nuestro capitán, y quitándonos lo nuestro, sólo se debía á que nosotros no habíamos obedecido su mandato; porque él no nos había dado más orden, que la de no pasar más allá de los <hi rend="italic">Scheruyes</hi> (Xarayes), y de allí 4 días de viaje la tierra adentro; de todo lo cual debíamos traerle relación y de allí volvernos. Én lugar de lo cual anduvimos 18 días de los <hi rend="italic">Scherues</hi> tierra adentro.</p>
+      </div>
+    </body></text></TEI>

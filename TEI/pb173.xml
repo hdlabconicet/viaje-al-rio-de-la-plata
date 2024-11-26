@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+          <editor n="2">Laura Volkind</editor>
+            <editor n="3">Gabriel Calarco</editor>
+              <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="21">
+
+        <pb n="173" facs="173.jpg"/>
+        <head>CAPÍTULO XXI</head>
+        <head type="titulocapitulo">DESCRIBE LA CIUDAD DE LAMBARÉ Y SU CAPTURA</head>
+        
+        <p>Y este pueblo antes se llamó, en lengua de Indios, <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=432"><hi rend="italic">Lambere</hi> (Lambaré)</placeName>; la ciudad de ellos está rodeada con 2 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=705"><hi rend="italic">pallersaide</hi></term> (palizadas) de madera, cada poste del grueso de un hombre; y la una <hi rend="italic">pallersaide</hi> está á 12 pasos de la otra; los postes están enterrados ó clavados en hondura de 6 pies, y se levantan del suelo lo que puede alcanzar un hombre con la punta de su <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=985">tizona</term>.</p>
+
+        <p><hi rend="italic">Iten</hi> habían cavado unos fosos, también á distancia de 15 pies del muro de esta su ciudad habían dejado unos hoyos en que podían pararse 3 hombres, adentro habían clavado (como para que no sobresaliesen) estacones de palo duro y puntiagudos como aguja; y habían tapado estos hoyos con paja y ramas cubiertas de tierra y pasto, á fin de que cuando nosotros los Cristianos persiguiésemos á los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=629">Caríos</term> ó atacásemos su ciudad, cayésemos en estos hoyos; pero fueron tantos los hoyos cavados, que al fin los mismos Indios se caían en ellos.
+            
+        <pb n="174" facs="174.jpg"/>    
+        
+        Como por ejemplo cuando nuestro capitán general <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=64"><hi rend="italic">Jann Eyollas</hi></term> puso en orden á toda nuestra gente menos 60 hombres que dejó de guardia en los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=437"><hi rend="italic">par</hi>(k)<hi rend="italic">adiennes</hi> (bergantines)</term>, y con ella llevó el ataque contra <hi rend="italic">Lambore</hi>, la ciudad de ellos, y nos divisaron estando nosotros como á un tiro largo de <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=397">arcabuz</term> de distancia, siendo ellos unos 40.000 bien armados con <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=433">arcos</term> y <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=434"><hi rend="italic">fleschen</hi> (flechas)</term>, y nos mandaron decir que nos retirásemos á los <hi rend="italic">parckhadienes</hi> y nos volviésemos; porque así nos proveerían de comida y de lo demás que nos hacía falta, y que con esto nos fuésemos en sana paz, que de no se convertirían en enemigos nuestros; mas esto de ningún modo convenía á nuestro capitán general ni á nosotros; porque la tierra y su gente nos parecía bastante bien con su abundancia de comida; y sabido era que en los últimos 4 años no habíamos probado ni visto siquiera bocado de pan, y sólo con pescado y carne nos habíamos alimentado.</p>
+        
+        <p>Entonces empuñaron los  sus arcos y sus <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=712">rodelas</term>, con ellos en las manos nos recibieron y ésta fué la bienvenida que nos dieron. Ni aun así quisimos nosotros hacerles mal, y les rogamos por
+        <pb n="175" facs="175.jpg"/>
+        tercera vez que se mantuviesen de paz [porque deseábamos ser sus amigos]; mas ellos no quisieron hacer caso, porque no habían experimentado lo que eran las rodelas y los arcabuces nuestros. Y cuando ya nos pusimos cerca de ellos les hicimos un descarga con nuestras bocas de fuego; eso que la oyeron y vieron que su gente caía al suelo, y, que no asomaban ni <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=993">jara</term> ni flecha alguna y sólo sí un agujero en el cuerpo, se llenaron de espanto, les entró miedo y al punto huyeron en pelotón y se caían unos sobre otros como perros; y tanto fué el apuro de meterse en su pueblo que como unos 200 Caríos cayeron ellos mismos en sus ya dichos hoyos durante el descalabro.</p>
+        
+        <p>Después de esto nosotros los Cristianos nos acercamos al pueblo de ellos y lo atacamos, mas ellos se defendieron lo mejor que pudieron, hasta el tercer día. Como ya no podían resistir más y temían por las mujeres é hijos, que también tenían consigo en la ciudad, nos pidieron misericordia prometiendo complacernos en todo con tal que les perdonásemos las vidas. También le trajeron á nuestro capitán <hi rend="italic">Jann Eyollass</hi> 6 mujeres, de las que la mayor tendría unos 18 años; <hi rend="italic">iten</hi> le <hi rend="italic">presentaron</hi> también 8 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=556">venados</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=556">ciervos</term> y otras salvajinas más. De ahí se empeñaron con nosotros para
+        <pb n="176" facs="176.jpg"/>
+        
+        que nos quedásemos con ellos, y le regalaron á cada soldado 2 mujeres, para que nos sirvan en el lavado y cocina. También nos dieron comida y de cuanto nos hacía falta. Así de esta manera se hizo la paz entre nosotros.</p>
+      </div>
+    </body></text></TEI>

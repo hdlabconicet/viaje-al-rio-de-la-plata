@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="35">
+      <pb n="209" facs="209.jpg"/>
+        <head>CAPÍTULO XXXV</head>
+        <head type="titulocapitulo">VIAJE DE HERNANDO RIBERA Á LOS OREJONES "SUERUCHUESSIS" Y Á LOS "ACHARÉS"</head>
+        <p>Mandó empero y ordenó disponer un navío con 80 hombres y nos nombró un capitán, lla-
+      <pb n="210" facs="210.jpg"/>
+        mado <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=158"><hi rend="italic">Ernando Rieffere</hi> (Ribera)</persName> y nos despachó aguas arriba del <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=421"><hi rend="italic">Paraboe</hi></placeName> á descubrir una nación llamada <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=825"><hi rend="italic">Scheruess</hi> (Xarayes)</term>, de allí precisamente [deberíamos] meternos tierra adentro unos 2 días de camino, y no más, trayéndole en seguida relación de la tierra y de los mismos Indios. Y fué que en el primer día que nos separamos de ellos, á las 4 <hi rend="italic">millas</hi> (leguas), llegamos nosotros á otra nación llamada de los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=817"><hi rend="italic">Sueruckuessis</hi> (Orejones)</term> y situada en la otra tierra; ellos viven en una isla, [de] casi 30 millas (leguas) de ancho y la rodea el agua corriente <hi rend="italic">Paraboe</hi>, tienen para comer <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=633"><hi rend="italic">mannderoch</hi> (mandioca)</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=631"><hi rend="italic">meiss</hi> (maíz)</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=698"><hi rend="italic">manduischs</hi> (maní)</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=634">padat[e]s (patatas)</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=639"><hi rend="italic">mandepore</hi> [<hi rend="italic">mandeoch</hi>]</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=638"><hi rend="italic">porpy</hi></term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=700"><hi rend="italic">buchakhu</hi></term> y otras raíces más, ítem pescado y carne, son los hombres y las mujeres precisamente como entre los antedichos <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=817"><hi rend="italic">Sueruekuissy</hi> (Sacocíes)</term>. Nos quedamos este día con ellos y al otro volvimos á partir; y nos llevamos 10 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=519"><hi rend="italic">Kannanen</hi> (canoas) ó esquifes</term> de estos Indios para que nos mostrasen el camino, cazaban salvajinas del campo dos veces por día, como también pescaban, y con ello nos obsequiaban. En este viaje demoramos nosotros 9 días de tiempo y en seguida llegamos á una nación llamada de los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=629"><hi rend="italic">Acheress</hi>(Ya-
+      <pb n="211" facs="211.jpg"/>
+        caré)</term> Hay muchas poblaciones unas cerca de otras; es gente alta y gruesa, hombres y mujeres, que los iguale nada he visto en todo el <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=358">Río delle Plata</placeName>. Estos <hi rend="italic">Achares</hi> (Yacarés) están á 36 <hi rend="italic">millas</hi> (leguas) de los dichos <hi rend="italic">Sueruekuessis</hi> más inmediatos; no tienen más de comer que pescado y carne; las mujeres no se tapan las vergüenzas. Con estos <hi rend="italic">Acheress</hi> nos quedamos un día entero. Aquí los dichos <hi rend="italic">Sueruekuessis</hi> se volvieron otra vez con sus 10 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=519"><hi rend="italic">Cannanen</hi> (canoas)</term> á su pueblo. En seguida <hi rend="italic">Ernando Rieffere</hi> (Ribera), nuestro capitán, les hizo saber á los Acheres (Yacaré) que tenían que mostrarnos el camino á los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=825"><hi rend="italic">Scherues</hi> (Jarayes)</term>, y se prestaron ellos gustosos, y nos acompañaron de su pueblo con 8 <hi rend="italic">cananen</hi> (canoas) y nos procuraban, dos veces por día, pescado y carne, con lo que nosotros teníamos de comer en abundancia.</p>
+        <p>Por qué esta nación se llama <hi rend="italic">Acheres</hi> (Yacaré), es la razón (esta): <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=478"><hi rend="italic">achere</hi></term> es un pez que tiene el cuero tan duro que uno no lo puede herir con un cuchillo, ni menos penetrarle una flecha de los Indios; es un pez grande, y les hace mucho mal á los demás peces; item sus huevas ú ovas, que de suyo pone en tierra, á unos dos ó tres pasos del agua, saben como á almizcle; es bueno para co-
+      <pb n="212" facs="212.jpg"/>
+        mer, la cola es lo mejor; lo demás también no es dañoso; vive siempre en el agua. Item aquí en nuestra <placeName>Alemania</placeName> se lo tiene por una bestia dañosa y asquerosa y lo llaman <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=478"><hi rend="italic">basiliesckh</hi> (basilisco)</term> y se cuenta, que si uno lo mira á este pescado de suerte que éste le haga llegar el aliento, por fuerza tiene él que morir, lo que es una verdad sin vuelta, porque el hombre tiene que morir y nada es más sabido. También se cuenta que si uno de éstos se cría y es visto en un pozo, que no hay más medio de acabar con este pez que el de mostrarle un espejo y tenérselo por delante, para que allí él mismo se mire, porque así al ver allí su propia fealdad tendrá que caer muerto al punto. Pero las tales consejas del dicho pez son pura fábula y sin valor; porque de ser verdad, cien veces debería haberme muerto, porque más de 3.000 de estos peces he cogido y comido yo; no hubiese escrito tanto acerca de este pez si yo no hubiese tenido una razón conocida: en <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=457">Munich</placeName>, en la casa de campo del <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=131">duque Alberto</persName>, nuestro finado señor.</p>
+       </div>
+    </body></text></TEI>

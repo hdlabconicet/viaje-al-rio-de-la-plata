@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Viaje al Río de la Plata (1534-1554)</title>
+       <author>Ulrich Schmidel</author>
+      <editor n="1">Romina De León</editor>
+       <editor n="2">Gabriel Calarco</editor>
+       <editor n="3">Laura Volkind</editor>
+         <editor n="4">Gimena del Rio Riande</editor>
+     </titleStmt>
+     <publicationStmt>
+       <publisher>HD LAB</publisher>
+       <availability>
+       <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+       </availability>
+     </publicationStmt>
+     <sourceDesc> 
+       <bibl>
+       <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+       <date>1903</date>
+       </bibl>
+     </sourceDesc>
+   </fileDesc>
+ </teiHeader>
+ <text><body><div type="capitulo" n="49">
+      <pb n="271" facs="271.jpg"/>  
+       <head>CAPÍTULO XLIX</head>
+       <head type="titulocapitulo">DE LA TIERRA DE LOS MARCHKHAYSÍES. REGRESO AL RÍO DE LA PLATA. ALZAMIENTO DE DIEGO DE ABREU</head>
+            <p>De tal modo se había manejado y tanto había hecho nuestro capitán allí con la gente, que en razón de víveres ya no podíamos permanecer más entre los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=876"><hi rend="italic">Marchkhaysies</hi></term>; porque los víveres que teníamos no alcanzaban para un mes; mas si nosotros hubiésemos sabido, que se nos iba á proveer ó nombrar un [nuevo] <hi rend="italic">gubernator</hi>, no nos hubiésemos movido de allí, hubiésemos hallado harta comida y <hi rend="italic">remedi</hi> (remedio) (á la cosa); pero en el mundo todo es picardía. Después marchamos nosotros de regreso á los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=902"><hi rend="italic">Harchkokoes</hi> (Corocotoquis)</term>. Debía yo haberos contado también, á saber, que los dichos <hi rend="italic">Machkaysis</hi> tienen una tierra tan fértil que no se había visto otra igual hasta entonces; por ejemplo, cuando un Indio sale al monte ó selva, y en el primer árbol que allí
+          <pb n="272" facs="272.jpg"/>      
+            encuentra abre un agujero con el hacha, de él saltan unas 5 ó 6 medidas de miel tan pura como almíbar; las tales <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=1003">abejas</term> son muy pequeñas y no pican. La tal miel, que [es] de la buena, se puede comer con pan ó con cualquier otra comida, se hace también de ella buen vino, como en esta tierra (<placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=419">Baviera</placeName>) hidromiel; [es] aun mejor y más sabrosa al paladar.</p>
+            <p>Cuando después de esto llegamos nosotros á los antedichos <hi rend="italic">Worckhobosíes</hi>, todos ellos con mujeres é hijos habían huido de allí y se ponían á buen recaudo de miedo de nosotros; pero mejor les hubiese estado quedarse en su pueblo; porque al punto les envió nuestro capitán otros Indios y les hizo decir que debían volver á sus pueblos y que se dejasen de tenernos miedo, que no se les irrogaría perjuicio alguno; mas ellos no quisieron hacer caso de ello sino que por contestación nos mandaron que despejásemos el pueblo, porque de no, nos arrojarían de allí á la fuerza.</p>
+            <p>Después que nosotros nos hicimos cargo de la tal cosa, nos dispusimos á toda prisa y marchamos contra ellos, no obstante que entre nosotros la gente de pelea había algunos cuyo parecer y deseo era que se mandase al capitán y se le hiciece decir, que no debía marchar contra aquellos, por
+          <pb n="273" facs="273.jpg"/>  
+            que ello podría ser causa de una gran hambruna en la tierra, de suerte que si se ofreciere pasar del <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=431">Perú</placeName> al <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=358">Rio delle Plata</placeName>, no encontrarían allí nada de comer; mas nuestro capitán y la <hi rend="italic">comunitett</hi> (comunidad) no quisieron entrar por ello, sino que siguieron el antedicho propósito y marcharon contra los dichos <hi rend="italic">Wockhhobosíes</hi> (Corocotoquis), y cuando ya estábamos nosotros como á 1/2 <hi rend="italic">milla</hi> (legua) de camino de ellos ya habían sentado sus reales al abrigo de 2 cerros y bosques á los 2 costados, porque, llegado el caso de que nosotros los venciésemos, pudiesen ellos escaparse de nosotros con más facilidad. Pero la cuenta les salió mal parada: aquellos que nosotros alcanzamos tuvieron que quedar allí ó ser nuestros esclavos; así que en la tal escaramuza nos ganamos hasta unos 1.000, sin contarlos que matamos hombres, mujeres y niños.</p>
+            <p>Después de estos nos quedamos 2 meses largos en este pueblo que era tan grande como serían cualesquiera 5 ó 6 de los otros. Así, pues, marchamos adelante hasta el pueblo donde habíamos dejado los 2 antedichos navíos de que se trató en la <rs ref="cap_44">f. (48)</rs>y estuvimos en el viaje año y medio, en que nosotros no hicimos más que guerrear con los
+          <pb n="274" facs="274.jpg"/>  
+            demás, y en este viaje nos hicimos de hombres, mujeres y niños hasta el número de 12.000 <hi rend="italic">personas</hi> obligados á ser nuestros esclavos; también me tocaron por mi parte unas 50 personas entre hombres, mujeres y niños.</p>
+            <p>Y eso que nosotros llegamos á las naos nos avisó la gente que habíamos dejado en estos navíos <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=437">bergentín<hi rend="italic"/> (bergantines)</term> de como, en nuestra ausencia, un capitán llamado <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=127"><hi rend="italic">Diego Abriegenn</hi> (Diego de Abrego)</persName> natural de <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=343"><hi rend="italic">Sievilla</hi></placeName> en <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=317"><hi rend="italic">Hispania</hi></placeName>, por propia cuenta, y un capitán con el nombre de <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=125"><hi rend="italic">thonn Fran. Manthossa</hi> (don Francisco de Mendoza)</persName> que nuestro capitán general <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=90"><hi rend="italic">Domenigo Marthin Eyolla</hi> (Irala)</persName> había nombrado para capitán de los 2 navíos y de la gente misma, habian armado un gran alboroto entre ellos, preten-
+          <pb n="275" facs="275.jpg"/>  
+            diendo éste que él y no otro debería mandar y gobernar en la ciudad, durante la ausencia, mientras que el dicho <hi rend="italic">Diego de Abriego</hi> (Diego de Abreu ó Abrego) quería mandar sólo; mas <hi rend="italic">thonn Francisco Manthossa</hi>, como capitán delegado y lugarteniente de <hi rend="italic">Marthín Domenigo Eyolla</hi> (Irala), no quería consentírselo. A todo esto se armó una <note ana="Frase que indica confusión y desorden, teniendo sus orígenes con el inicio de la trata de esclavos. También puede referir a hechos de corrupción.">merienda de negros</note> entre ellos, hasta que por fin <hi rend="italic">Tiego de Abriego</hi> quedó dueño del campo, y derrotó y le cortó la cabeza á <hi rend="italic">thonn Fran Manthossa</hi>.</p>            
+     </div>
+   </body></text></TEI>

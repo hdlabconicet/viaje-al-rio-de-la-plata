@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Urlich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Gabriel Galarco</editor>
+        <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="6">
+
+      <pb n="145" facs="145.jpg"/>
+      <head>CAPÍTULO VI</head>
+      <head type="titulocapitulo">LLEGAN AL RÍO DE LA PLATA Y PUERTO DE SAN GABRIEL. LOS CHARRÚA.</head>
+      <p>De allí navegamos al <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=358"><hi rend="italic">Rio de le Platta</hi></placeName> y dimos con una corriente de agua dulce, que se llama 
+      <pb n="146" facs="146.jpg"/>
+      <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=406"><hi rend="italic">Parnau Wassu</hi> (Paraná Guazú)</placeName>, y tiene de ancho en la boca, donde deja de ser mar, una extensión de 42 <hi rend="italic">millas</hi> (leguas) de camino y desde <hi rend="italic"><note ana="Río de Janeiro">Río Gena</note></hi> a esta agua se cuentan 500 <hi rend="italic">millas</hi> (leguas) de camino.</p>
+      
+      <p>En seguida arribamos á una bahía que se llama <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=413"><hi rend="italic">Sannt Gabriehel</hi> (San Gabriel)</placeName> y allí en la susodicha agua corriente <hi rend="italic">Parnau</hi> largamos las anclas de nuestros 14 navíos. Y como tuviésemos que hacer quedar los navíos mayores á un tiro de arcabuz de la tierra, nuestro general <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=24"><hi rend="italic">Pietro Manthossa</hi></persName> había ordenado y mandado que los marineros desembarcasen la gente en los pequeños <note ana=" Barco pequeño que se lleva en el navío para saltar a tierra y para otros usos">esquifes</note>, que con este fin estaban ya dispuestos, y se llaman <hi rend="italic">podel</hi> ó <hi rend="italic">poet</hi> (batel ó bote). Así pues, con el favor de Dios llegamos al <hi rend="italic">Rio de le Platta</hi> el año 1535.</p>
+      
+      <p>Allí nos encontramos con un pueblo de Indios llamados <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=551"><hi rend="italic">Zechuruass</hi> (Charrúas)</term> que constaba como de unos 2.000 hombres, y que no tenían más de comer que pescado y carne. Estos al llegar nosotros, habían abandonado el pueblo huyendo con mujeres é hijos, de suerte que no pudimos dar con ellos. Esta nación de Indios se anda en cueros vivos, mientras que sus mujeres se tapan las ver-
+      
+      <pb n="147" facs="147.jpg"/>
+      güenzas con un paño de <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=930">algodón</term> que les cubre desde el ombligo hasta la rodilla.</p>
+      
+      <p>Entonces el general <hi rend="italic">thon Pietro Manthossa</hi> mandó que se vuelva á embarcar la gente, y que la hagan pasar á la otra banda del agua <placeName><hi rend="italic">Pernaw</hi> (Paraná)</placeName>, que allí no tiene más anchura que 8 millas (leguas) de camino.</p>
+      </div>
+    </body></text></TEI>

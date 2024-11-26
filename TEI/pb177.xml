@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+          <editor n="3">Gabriel Calarco</editor>
+            <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="22">
+
+        <pb n="176" facs="176.jpg"/>
+        <head>CAPÍTULO XXII</head>
+        <head type="titulocapitulo">LA ASUNCIÓN FUNDADA. GUERRA DE LOS AGÁ</head>
+
+        <p>Después de esto se vieron obligados los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=629">Caríos</term> á levantarnos una gran casa de piedra, tierra y madera, para que si con el andar del tiempo llegase á acontecer que se levantasen contra los Cristianos, tuviesen estos un amparo y pudiesen defenderse. Tomamos este pueblo de los Caríos el día de <hi rend="italic"><note ana="En el calendario gregoriano, 15 de agosto de 1537">Nostra Singnora de Sunsión</note></hi> [ganado el año 1536] y se llama todavía <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=443"><hi rend="italic">Nostra Singnora de Sunsión</hi></placeName> esta su ciudad; en esta escaramuza cayeron de los nuestros 16 hombres; y quedamos allí 2 meses largos. A estos Caríos desde los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=686"><hi rend="italic">Aygaysen</hi> (Agaces)</term> hay
+        <pb n="177" facs="177.jpg"/>
+        30 <hi rend="italic">millas</hi> (leguas) y desde la <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=4231">isla <hi rend="italic">Bon Esperainso</hi></placeName>, esto es, <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=423"><hi rend="italic">Guete Hofnung</hi> (Buena Esperanza)</placeName> donde viven los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=617"><hi rend="italic">Tiembus</hi></term>, cerca de 335 <hi rend="italic">millas</hi> (leguas) de camino.</p>
+
+        <p>Así celebramos un <hi rend="italic">contrato</hi> con los Caríos, por el que se obligaban y prometían acompañarnos á la guerra y auxiliarnos con 8.000 hombres contra los antedichos <hi rend="italic">Aygaissen</hi> (Agaces).</p> 
+        
+        <p>Después que nuestro capitán general hubo arreglado todo esto, sacó él 300 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=359">Españoles</term> con más los Caríos estos y navegó aguas abajo, y después por tierra las 30 <hi rend="italic">millas</hi> (leguas), hasta donde los dichos <hi rend="italic">Aigais</hi> vivían, de quienes y de cómo nos trataron se dijo ya en el <rs ref="cap_19">Cap. XIX</rs>. Los encontramos en el mismo lugar en que los dejamos, y los sorprendimos, sin que nos sintiesen, en sus casas, porque aun dormían, entre las 3 y 4 de la mañana; porque los Caríos los habían descubierto ó espiado; allí matamos chicos y grandes dando muerte á todos; porque es costumbre de los Caríos, cuando guerrean y salen ganando, que matan á todos, y no se compadecen de nadie.</p>
+
+        <p>Después de esto tomamos nosotros 500 <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=519"><hi rend="italic">cannanon</hi> (canoas) ó esquifes</term> y quemamos todos los pueblos que pudimos hallar é hicimos mucho daño. A los 4 meses vinieron algunos de los <hi rend="italic">Aygaissen</hi>,
+        <pb n="178" facs="178.jpg"/>
+        que no habían tomado parte en la tal escaramuza, por no haberse hallado en sus casas y pidieron perdón. Este se lo tuvo que conceder nuestro capitán general según orden de la Cesárea Majestad, que se había de perdonar á los Indios hasta la tercera vez; pero había de ser así que si alguno se alzase por tercera vez, debería quedar preso [ó de esclavo] por toda su vida.</p>
+      </div>
+    </body></text></TEI>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="29">
+        <pb n="193" facs="193.jpg"/> 
+        <head>CAPÍTULO XXIX</head>
+        <head type="titulocapitulo">LLEGA LA CARABELA DE SANTA CATALINA Y VIAJE DEL AUTOR Á ENCONTRAR Á CABRERA</head>
+        <p>Pero unos 5 días después de nuestro arribo á <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=417"><hi rend="italic">Bonas Ayers</hi></placeName> nos llegó de <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=317"><hi rend="italic">Hispanien</hi></placeName> una pequeña nao, llamada <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=492"><hi rend="italic">carabelle</hi> (carabela)</term> y nos trajo buenas nuevas, á saber, que un navío más había arribado á <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=488"><hi rend="italic">Sannta Katarina</hi></placeName>, cuyo capitán, del mismo, llamado <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=88"><hi rend="italic">Aluiso Gabrero</hi> (Alonso Cabre-
+      <pb n="194" facs="194.jpg"/>  
+        ra)</persName>, había traído consigo de <hi rend="italic">Hispanien</hi> 200 hombres. Ni bien supo nuestro capitán las tales nuevas hizo aprestar de los 2 navíos uno, que era un <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=583"><hi rend="italic">galiber</hi> (galeón)</term> y lo despachó con el primero á <hi rend="italic">S. Katarina</hi> en <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=213"><hi rend="italic">Presael</hi> (Brasil)</placeName>, que está á 300 <hi rend="italic">millas</hi> (leguas) de <hi rend="italic">Bonas Ayers</hi>, y le nombró un capitán, llamado <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=122"><hi rend="italic">Consalto Manthossa</hi> (Gonzalo de Mendoza)</persName> para que mandase el navío, y le encargó que tan luego como llegase á <hi rend="italic">S. Catarina</hi>, en <hi rend="italic">Pressel</hi> (Brasil), donde estaba el navío, había de cargar su nao con víveres de <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=778">arroz</term>, <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=633"><hi rend="italic">mandeoch</hi> (fariña?)</term> y otra comida más que le pareciese bien.</p>
+        <p>Con esto el tal capitán <hi rend="italic">Consaillo Mannthossa</hi> (Gonzalo Mendoza) pidió á nuestro capitán general <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=90"><hi rend="italic">Marthin Domenigo Eyolla</hi> (Irala)</persName> que le diese ó facilitase 6 compañeros de la gente de guerra, para que pudiese darse vuelta; él se lo prometió; así pues nos llevó á mí y á 5 Españoles consigo, más 20 hombres de la gente de guerra y marineros.</p>
+        <p>Eso que partimos de <hi rend="italic">Bonas Ayers</hi> al mes lle-
+      
+      <pb n="195" facs="195.jpg"/>  
+        gamos á <hi rend="italic">Sannt Katarina</hi>, allí nos encontramos con el susodicho navío, que de <hi rend="italic">Hispania</hi> había llegado, y al capitán junto con toda su gente; nos alegramos en grande, y nos quedamos 2 meses allí mismo, y cargamos nuestro galeón de arroz, <hi rend="italic">mandeoch</hi> (fariña?) y <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=631">trigo turco (maíz)</term> en mucha cantidad, de suerte que ya no podíamos meter más en los 2 navíos; después de esto nosotros y los 2 navíos y el capitán <hi rend="italic">Aluiso</hi> (Cabrera) y toda su gente juntos salimos en viaje de <hi rend="italic">S. Katarina</hi> á <hi rend="italic">Bonas Ayers</hi> en <placeName><hi rend="italic">Inndiam</hi> (Indias)</placeName>, y de allí llegamos como á las 20 millas (leguas) y dimos con un agua corriente <placeName><hi rend="italic">Parnaw Wassu</hi> (Paraná Guazú)</placeName>. Esta agua tiene de ancho en la boca 40 <hi rend="itali">millas</hi> (leguas) y sigue de este ancho por 80 <hi rend="italic">millas</hi> (leguas) de camino, hasta que uno llega á un puerto llamado <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=413"><hi rend="italic">S. Gabriel</hi></placeName>; allí el agua <hi rend="italic">Parnau</hi> tiene 8 <hi rend="italic">millas</hi> (leguas) de ancho. Así pues llegamos, como se dijo, á 20 <hi rend="italic">millas</hi> (leguas) en esta agua, la <note ana="En el calendario litúrgico latino, 1 de noviembre">víspera de Todos Santos</note>, y arribamos al anochecer á este punto con los dos navíos reunidos; y nos preguntamos el uno al otro si estábamos ya en el agua corriente <hi rend="italic">Pernau</hi>; y aunque aseguraba nuestro piloto, que habíamos llegado ya al agua corriente, el otro piloto le decía á su capitán, que estábamos aun á 20 <hi rend="italic">millas</hi> (leguas) de distancia de ese punto. Porque en el mar cuando 2, 3 ó más navíos andan en com-
+      <pb n="196" facs="196.jpg"/>
+        pañía, siempre se juntan á puestas de sol; entonces se averiguan entre sí cuanto han caminado día y noche, y cual el rumbo á tomar en el siguiente, con arreglo á lo cual poderse reunir.</p>
+        <p>Después de esto el piloto nuestro volvió á preguntar al otro piloto, si quería seguirlo; mas éste le dijo que ya era casi de noche, y que por eso se quedaría mar afuera hasta la mañana de alba y que no estaba para tomar tierra á esas horas; este piloto era algo más avisado que el nuestro, como se verá más tarde. Así nuestro navío siguió su camino y se separó de la otra nao.</p>
+      </div>
+    </body></text></TEI>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Urlich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+         <editor n="2">Laura Volkind</editor>
+          <editor n="3">Gabriel Calarco</editor>
+           <editor n="4">Gimena del Rio</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body><div type="capitulo" n="5">
+        <pb n="144" facs="144.jpg"/>
+        <head>CAPÍTULO V</head><head type="titulocapitulo">LLEGADA Á RÍO DEL JANEIRO Y MUERTE DE OSORIO</head>
+
+        <p>Después navegamos de esta isla á otra que se llama <placeName><hi rend="italic">Río Genna</hi> (Río Janeiro)</placeName> á 500 <hi rend="italic">millas</hi> de la anterior, dependencia del rey de <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=354">Portugal</placeName>: esta es la isla de <hi rend="italic">Rio Genna</hi> (Río del Janeiro) en <placeName><hi rend="italic">Inndia</hi> (Indias)</placeName> y los Indios se llaman <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=40"><hi rend="italic">Thopiss</hi> (Tupís)</term>. Allí nos quedamos unos 14 días. Fué aquí que <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=24"><hi rend="italic">thonn Pietro Manthossa</hi></persName>, nuestro capitán general, dispuso que <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=59"><hi rend="italic">Hanss Ossorio</hi> (Juan de Osorio)</persName>, como que era su hermano adoptivo, nos mandase en calidad de su lugarteniente; porque él seguía siempre sin acción, tullido y enfermo. Así las cosas él, <hi rend="italic">Hans</hi> (Juan) <hi rend="italic">Ossorio</hi>, no tardó en ser malquistado
+        <pb n="145" facs="145.jpg"/>
+        y calumniado ante <hi rend="italic">thonn Pietro Manthossa</hi>, su hermano jurado, y la acusación era que trataba de sublevarle la gente á <hi rend="italic">thonn Pietro Manthossa</hi>, el capitán general. Con este pretexto él, <hi rend="italic">thonn Pietro Manthossa</hi>, ordenó á otros 4 capitanes llamados <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=64"><hi rend="italic">Joan Eyolas</hi> (Ayolas)</persName>, <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=73"><hi rend="italic">Hanns Salesser</hi> (Juan Salazar)</persName>, <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=75"><hi rend="italic">Jerg Luchllem</hi> (Jorge Luján)</persName> y <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=77"><hi rend="italic">Lazarus Sallvaischo</hi></persName> que matasen al dicho <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=59"><hi rend="italic">Hanns Assario</hi> (Juan Osorio)</persName> á puñaladas, ó como mejor pudiesen, y que lo tirasen al medio de la plaza por traidor. Más aún, hizo publicar por bando que nadie osase compadecerse de <hi rend="italic">Assario</hi> (Osorio) so pena de correr la misma suerte, fuere quien fuere. Se le hizo injusticia, como lo sabe Dios el Todopoderoso, y que El lo favorezca; porque fué aquel un hombre piadoso y recto, buen soldado, que sabía mantener el orden y disciplina entre la gente de pelea.</p>
+      </div>
+    </body></text></TEI>
