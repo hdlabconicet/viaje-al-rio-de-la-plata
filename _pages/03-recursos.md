@@ -15,7 +15,7 @@ type: extras
         <path fill-rule="evenodd" d="M2.5 4.5a2 2 0 1 1 4 0 2 2 0 0 1-4 0zm2-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
       </svg> <a class="no-underline" title="Itinerario del Viaje al Río de la Plata" href="https://j-spinelli.github.io/ulrico-schmidel-storymap/#1" target="_blank">Itinerario del Viaje al Río de la Plata</a>
   </h2>
-  <a class="h3 lh-condensed" href="https://recogito.pelagios.org/document/lhwcy2r5yd8d8o/part/1/edit" target="_blank"><p>Storymap</p></a></div>
+  <a class="h3 lh-condensed" href="https://j-spinelli.github.io/ulrico-schmidel-storymap/#1" target="_blank"><p>Storymap</p></a></div>
 
   {% for post in site.recursos %}
     {% include post_block.html %}
