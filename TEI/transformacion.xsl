@@ -21,6 +21,7 @@
 
 <xsl:apply-templates select="//div"/>
 
+
 </div>
   <div class="col-right">
   
