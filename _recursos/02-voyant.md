@@ -15,7 +15,7 @@ Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice 
 
 Palabras más frecuentes del texto de Ulrico Schmidel. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?palette=extjs&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&whiteList=&visible=155&fontFamily=LatoWeb&corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&visible=75&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
 Deslice la barra de términos para aumentar o disminuir la cantidad de palabras en la nube.
 
@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://voyant-tools.org/tool/Contexts/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&corpus=457e9db92b0d1dbb2fdfd041cc603ca4"></iframe>
+<iframe class="py-3" src="'https://voyant-tools.org/tool/Contexts/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&query=tierra&corpus=d032fba88ac0d35198eb74f591f71ef0"></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
@@ -31,12 +31,12 @@ Modifique el término a consultar desde el menú inferior izquierdo.
 
 Evolución de la frecuencia de los principales términos del _Viaje al Río de la Plata_.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&query=gente&query=río&mode=document&corpus=457e9db92b0d1dbb2fdfd041cc603ca4'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&query=tierra&query=capit%C3%A1n&query=gente&mode=document&corpus=d032fba88ac0d35198eb74f591f71ef0)'></iframe>
 
 ## Grafo de colocaciones
 
 Deslice el cursor sobre las palabras de este grafo de colocaciones para consultar la frecuencia de cada par de términos.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&query=gente&query=río&mode=corpus&corpus=457e9db92b0d1dbb2fdfd041cc603ca4'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-748562329530d72873845684a7b432cf&query=capit%C3%A1n&query=nuestro&query=tierra&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
-<div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&panels=streamgraph,reader,corpuscollocates,summary,bubblelines" target="_blank">este link</a> para descubrir el <i>Viaje al Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=Bubbles" target="_blank">burbujas de términos</a>, <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=Veliza" target="_blank">Veliza</a>, <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=TextualArc" target="_blank">arco textual</a> y muchas más.</p></div>
+<div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&panels=streamgraph,reader,corpuscollocates,summary,bubblelines" target="_blank">este link</a> para descubrir el <i>Viaje al Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=d032fba88ac0d35198eb74f591f71ef0&view=bubbles" target="_blank">burbujas</a>, <a href="https://voyant-tools.org/?corpus=d032fba88ac0d35198eb74f591f71ef0&view=loom" target="_blank">Loom</a>, <a href="https://voyant-tools.org/?stopList=keywords-748562329530d72873845684a7b432cf&panels=collocatesgraph%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=d032fba88ac0d35198eb74f591f71ef0" target="_blank">Scatter Plot</a> y muchas más.</p></div>
