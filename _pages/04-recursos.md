@@ -15,7 +15,7 @@ type: extras
         <path fill-rule="evenodd" d="M2.5 4.5a2 2 0 1 1 4 0 2 2 0 0 1-4 0zm2-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
       </svg> <a class="no-underline" title="Análisis textual estadístico" href="https://mybinder.org/v2/gh/rominicky/mineria-texto-python/fe49459262c5d9ba8b5daa5d72160c53ecb05b82?urlpath=lab%2Ftree%2Fulrich_exploraciones_textuales.ipynb" target="_blank">Notebook sobre Viaje al Río de la Plata de Ulrico Schmidel</a>
   </h2>
-  <a class="h3 lh-condensed" href="https://mybinder.org/v2/gh/rominicky/mineria-texto-python/fe49459262c5d9ba8b5daa5d72160c53ecb05b82?urlpath=lab%2Ftree%2Fulrich_exploraciones_textuales.ipynb" target="_blank"><p>Notebook sobre Viaje al Río de la Plata de Ulrico Schmidel</p></a></div>
+  <a class="h3 lh-condensed" href="https://mybinder.org/v2/gh/rominicky/mineria-texto-python/fe49459262c5d9ba8b5daa5d72160c53ecb05b82?urlpath=lab%2Ftree%2Fulrich_exploraciones_textuales.ipynb" target="_blank"><p>Análisis cuantitativo del Viaje al Río de la Plata</p></a></div>
 
   {% for post in site.recursos %}
     {% include post_block.html %}
