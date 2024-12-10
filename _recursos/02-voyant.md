@@ -15,7 +15,7 @@ Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice 
 
 Palabras más frecuentes del texto de Ulrico Schmidel. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&visible=75&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-64a7303ec8f6f565c2d9acf045f45552&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
 Deslice la barra de términos para aumentar o disminuir la cantidad de palabras en la nube.
 
@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Contexts/?query=capit%C3%A1n&stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/Contexts/?stopList=keywords-64a7303ec8f6f565c2d9acf045f45552&query=%C3%A1&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
@@ -31,12 +31,12 @@ Modifique el término a consultar desde el menú inferior izquierdo.
 
 Evolución de la frecuencia de los principales términos del _Viaje al Río de la Plata_.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?stopList=keywords-096e3abe3fdc07c8e067808f52c41b81&query=capit%C3%A1n&query=nuestro&query=tierra&query=gente&query=pueblo&mode=document&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?stopList=keywords-64a7303ec8f6f565c2d9acf045f45552&query=tierra&query=gente&query=capit%C3%A1n&query=nuestro&mode=document&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
 ## Grafo de colocaciones
 
 Deslice el cursor sobre las palabras de este grafo de colocaciones para consultar la frecuencia de cada par de términos.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-748562329530d72873845684a7b432cf&query=capit%C3%A1n&query=nuestro&query=tierra&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
+<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-96bb75df7f437a2c04c666669c74a2cf&query=capit%C3%A1n&corpus=d032fba88ac0d35198eb74f591f71ef0'></iframe>
 
 <div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?corpus=d032fba88ac0d35198eb74f591f71ef0" target="_blank">este link</a> para descubrir el <i>Viaje al Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=d032fba88ac0d35198eb74f591f71ef0&view=bubbles" target="_blank">burbujas</a>, <a href="https://voyant-tools.org/?corpus=d032fba88ac0d35198eb74f591f71ef0&view=loom" target="_blank">Loom</a>, y muchas más.</p></div>
