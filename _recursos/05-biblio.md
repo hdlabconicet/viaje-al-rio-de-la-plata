@@ -12,7 +12,7 @@ icon: book
 
 * Schmidel, U. (1567). Ander theil dieses Weltbuchs von Schiffahrten. Warhaffftige Beschreibunge aller und mancherley sorgfeltigen Schiffarten, auch viler unbekanten erfundnen Landtschafften, Insulen, Konigreichen, und Stedten... Durch Ulrich Schmidel von Straubingen, etc. Sigmund Feyerabend & Simon Hueters.
 
-* Schmidel, U. (1599). Americae Pars VII. - Verissima et Jvcvndissima Descriptio Praecipvarum Quarvndam Indiae regionum & Insularum, quœ quidem nullis ante hœc tempora visœ cognitœque, iam primum ab Virico Fabro Straubingensi, multo, cum periculo inuentae & ab eodem summa diligentia consignatœ fuerunt, ex germanico in latinum sermonem conuersa autore (M. G. Arthus, Trad.). Theodor De Bry.
+* Schmidel, U. (1599). [Americae Pars VII. - Verissima et Jvcvndissima Descriptio Praecipvarum Quarvndam Indiae regionum & Insularum, quœ quidem nullis ante hœc tempora visœ cognitœque, iam primum ab Virico Fabro Straubingensi, multo, cum periculo inuentae & ab eodem summa diligentia consignatœ fuerunt, ex germanico in latinum sermonem conuersa autore (M. G. Arthus, Trad.). Theodor De Bry.](https://archive.org/details/verahistoriaadmi00schm)
 
 * Schmidel, U. (1749). Historia y descubrimiento del Río de la Plata y Paraguay (A. González Barcia, Ed. y Trad.; Vol. 3). Buenos Aires, Imprenta y librería de Mayo.
 
