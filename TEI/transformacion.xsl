@@ -30,6 +30,8 @@
    </div>
 </div>
 
+       <!--Es importante que en el XML queden los elementos pb queden afuera del elemento div de capítulo. Si no, se produce una duplicación de la imágen en la transformación-->
+
 <script type="text/javascript">
   $(function() {  $("#0").miniPreview();
   });
@@ -46,7 +48,7 @@
 
 <xsl:template match="//pb">
   <a target="_blank">
-            <xsl:attribute name="href">./assets/img/paginas_ed/<xsl:value-of select="@facs"/></xsl:attribute>
+ 
     <img>
                 <xsl:attribute name="src">./assets/img/paginas_ed/<xsl:value-of select="@facs"/></xsl:attribute>
   </img>
