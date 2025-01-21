@@ -24,13 +24,14 @@
     </fileDesc>
   </teiHeader>
   <text><body>  <pb n="183" facs="183.jpg"/>     
-  <div type="capitulo" n="25">
+  <div type="capitulo" n="24">
        
         
         <p>ausencia, y si llegase el caso que el capitán no se volviese á juntar con nosotros dentro del plazo estipulado, deberíamos nosotros regresar con estos 2 navíos á la ciudad <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=443"><hi rend="italic">Nostra Singnora de Sunsión</hi></placeName>. Aconteció, pues, que aunque nosotros permanecimos con los <hi rend="italic">Payenbas</hi> durante 6 meses no supimos nada de nuestro capitán <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=64"><hi rend="italic">Jan Eyollas</hi></persName>; ya no teníamos cosa que comer, así que nos vimos obligados á viajar con este nuestro dicho capitán <persName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=90"><hi rend="italic">Marthin Thomingo Ayolla</hi></persName> de vuelta á la ciudad <hi rend="italic">Signora</hi> (Asunción), según lo mandado por nuestro capitán general.</p>
-
+  </div>
+    <div type="capitulo" n="25">
         <head>CAPÍTULO XXV</head>
-        <head type="titulocapitulo"><note ana="Este capítulo es un episodio intercalado y no depende de lo que precede, porque relata la entrada de Irala y Cabrera a socorrer a Juan de Ayolas en 1539. Si Schmidel hubiese acompañado a Ayolas no podría haber estado de vuelta en Buenos Aires con Ruiz en Mayo de 1538">AYOLAS VIAJA POR TIERRA DE LOS PAYAGUÁ Y NAPERÚ</note></head>
+        <head type="titulocapitulo"><note ana="Este capítulo es un episodio intercalado y no depende de lo que precede, porque relata la entrada de Irala y Cabrera a socorrer a Juan de Ayolas en 1539. Si Schmidel hubiese acompañado a Ayolas no podría haber estado de vuelta en Buenos Aires con Ruiz en Mayo de 1538">AYOLAS</note> VIAJA POR TIERRA DE LOS PAYAGUÁ Y NAPERÚ</head>
 
         <p>Y primero después que partió dé los <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=721"><hi rend="italic">Pyembas</hi></term>, llegó él á una nación llamada <term ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=752"><hi rend="italic">Naperus</hi></term>, que son amigos de los <hi rend="italic">Pyembas</hi> y no tienen más que pescado y carne; es una nación de mucha gente. De estos <hi rend="italic">Naperus</hi> también nuestro capitán general se separó algunos que le sirviesen de baqueanos; pa-</p>
       </div>
