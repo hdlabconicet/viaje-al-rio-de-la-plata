@@ -24,14 +24,14 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text><body><div type="capitulo" n="20">
+  <text><body>   <pb n="172" facs="172.jpg"/><div type="capitulo" n="20">
 
-        <pb n="172" facs="172.jpg"/>
+     
         
          <p>vir á otros. <hi rend="italic">Iten</hi> los varones tienen en el labio un agujero pequeño en el que meten un cristal amarillo, que en lengua de ellos se llama <hi rend="italic">parabol<note ana="En la tradición guaraní, los niños de 10 a 13 años son iniciados con el rito conocido como kunumi pepy. El término refiere a la perforación del labio y la colocacion del adorno labial o tembetá."/></hi> (barbote), de dos jemes de largo y grueso como el canuto de una pluma. Esta gente, hombres y mujeres, andan en cueros vivos, tal como Dios los echó al mundo. Entre estos Indios el padre vende á la hija, <hi rend="italic">iten</hi> el marido á la mujer, si esta no le gusta, también el hermano vende ó permuta á la hermana; una mujer cuesta una camisa, ó un cuchillo de cortar pan, ó un anzuelo ó cualquier otra baratija por el estilo.</p>
 
         <p>Estos <hi rend="italic">Caríos</hi> también comen carne humana, cuando se ofrece, es decir, cuando pelean y toman algún enemigo, sea hombre ó mujer, y como se ceban los chanchos en Alemania, así ceban ellos á los prisioneros; pero si la mujer es algo linda y joven, la conservan por un año ó más, y si durante ese tiempo no alcanza á llenarles el gusto la matan y se la comen, y con ella hacen fiesta solemne, ó como si fuese para una boda; mas si la persona es vieja la hacen trabajar en la labranza hasta que se muere.</p>
         
-        <p>Esta gente es la más caminadora de cuantas naciones hay en el <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=358"><hi rend="italic">Río delle Plata</hi></placeName>; son grandes guerreros por tierra. Sus pueblos ó ciudades están en las alturas del agua <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=406"><hi rend="italic"/> (río) Paraboe</placeName>.</p>
+        <p>Esta gente es la más caminadora de cuantas naciones hay en el <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=358"><hi rend="italic">Río delle Plata</hi></placeName>; son grandes guerreros por tierra. Sus pueblos ó ciudades están en las alturas del <hi>agua</hi> <placeName ref="https://vocabularyserver.com/lab/riodelaplatacolonial/index.php?tema=406"><hi rend="italic"/> (río) Paraboe</placeName>.</p>
       </div>
     </body></text></TEI>
