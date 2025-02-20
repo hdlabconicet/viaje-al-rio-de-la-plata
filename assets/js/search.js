@@ -5,8 +5,8 @@
 
 //Create the lunr index for the search
 var index = elasticlunr(function () {
-  this.addField('section')
-  this.addField('pagenum')
+  // this.addField('section')
+  this.addField('title')
   this.addField('layout')
   this.addField('content')
   this.setRef('id')
@@ -14,8 +14,8 @@ var index = elasticlunr(function () {
 
 {% assign count = 0 %}{% for text in site.txtxpagina %}
 index.addDoc({
-  section: {{text.section | jsonify}},
-  pagenum: {{text.pagenum | jsonify}},
+  // section: {{text.section | jsonify}},
+  title: {{text.title | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
@@ -23,8 +23,8 @@ index.addDoc({
 console.log( jQuery.type(index) );
 
 var store = [{% for text in site.txtxpagina %}{
-  "section": {{text.section | jsonify}},
-  "pagenum": {{text.pagenum | jsonify}},
+  // "section": {{text.section | jsonify}},
+  "title": {{text.title | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
 },
@@ -55,7 +55,7 @@ function doSearch() {
   //Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].section+' - '+store[ref].pagenum+'</a></p></div>';
+    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a></p></div>';
     resultdiv.append(searchitem);
   }
 }
