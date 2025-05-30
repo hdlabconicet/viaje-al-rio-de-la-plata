@@ -582,3 +582,23 @@ cursor: pointer;
 display: none;
 }
 
+/* visualizacion moviles */
+@media (max-width: 768px) {
+  #sigma-container {
+    width: 100% !important;
+    height: 70vh !important;
+  }
+  
+  .sigma-legend {
+    transform: scale(0.7);
+    transform-origin: top left;
+    max-width: 120px !important;
+    font-size: 12px !important;
+    padding: 8px !important;
+    background: rgba(255,255,255,0.8) !important;
+  }
+  
+  .sigma-mouse {
+    pointer-events: auto !important;
+  }
+}

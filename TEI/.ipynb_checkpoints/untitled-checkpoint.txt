@@ -1,0 +1,17 @@
+import re
+
+with open('/Users/Dropbox/HD/Pelagios-Sur/Corpus/argentina-manuscrita-new.tei.xml', 'r') as fi:
+    cont=fi.read() 
+
+#persnote=re.findall(r'<persName[^>]+>[^<]+</persName><note[^>]+>[^>]+>', cont) 
+## 845 match
+persnote=re.findall(r'<persName[^>]+>[^<]+</persName><note[^>]+>[^>]+><note[^>]+>[^>]+>', cont) 
+##32 match
+
+with open('/Users/Dropbox/HD/Pelagios-Sur/argmanus_person_notes.csv', 'w', newline='\n') as csvfile:
+    writer=csv.writer(csvfile, delimiter=';', quotechar='"')
+    for el in persnote:
+        person, note =el.split('</persName>')
+        person=re.sub(r'<[^>]+>', r'', person)
+        note=re.sub(r'<[^>]+>', r'', note)
+        writer.writerow([person, note])
