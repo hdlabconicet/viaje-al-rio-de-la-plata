@@ -108,14 +108,16 @@
   })();
 
 </script>
-
+<button id="toggle-legend">Mostrar leyenda</button>
 <script>
-  document.getElementById('toggle-legend').addEventListener('click', function() {
-    var panel = document.getElementById('mainpanel');
-    panel.classList.toggle('hidden');
+  const button = document.getElementById('toggle-legend');
+  const panel = document.getElementById('mainpanel');
+
+  button.addEventListener('click', function () {
+    const isVisible = panel.classList.toggle('visible');
+button.textContent = isVisible ? 'Ocultar leyenda' : 'Mostrar leyenda';
   });
 </script>
-
 
 </body>
 </html>
