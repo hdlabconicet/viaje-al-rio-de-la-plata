@@ -231,13 +231,13 @@ margin-bottom:20px;
 display: none;
 }
 
-#mainpanel {
-margin-top: 50px;
+#mainpanel { 
+margin-top: 25px;
 margin-left: 25px;
 background:#fff;
 background-color:rgba(255,255,255,0.8);
 border:1px solid #ccc;
-z-index:20;
+z-index:10;
 position:fixed;
 top:0;
 }
@@ -489,8 +489,8 @@ display: none;
 #zoom .z {
 	background:#fff;
 	background-color:rgba(255,255,255,0.7);
-	width: 60px;
-	height: 60px;
+	width: 40px;
+	height: 40px;
 	cursor: pointer;
 	border:1px solid #ccc;
 	float:left;
@@ -584,21 +584,33 @@ display: none;
 
 /* visualizacion moviles */
 @media (max-width: 768px) {
-  #sigma-container {
-    width: 100% !important;
-    height: 70vh !important;
+  #mainpanel {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    background: rgba(255,255,255,0.9);
+    width: 90%;
+    left: 5%;
+    top: 10px;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 10px;
   }
-  
-  .sigma-legend {
-    transform: scale(0.7);
-    transform-origin: top left;
-    max-width: 120px !important;
-    font-size: 12px !important;
-    padding: 8px !important;
-    background: rgba(255,255,255,0.8) !important;
+
+  #mainpanel.visible {
+    display: block;
   }
-  
-  .sigma-mouse {
-    pointer-events: auto !important;
+
+  #toggle-legend {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 5px;
+    z-index: 2000;
+    font-size: 14px;
   }
 }
