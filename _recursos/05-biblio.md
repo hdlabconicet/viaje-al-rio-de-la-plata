@@ -8,7 +8,7 @@ icon: book
 ---
 
 
-### Ediciones históricas del Viaje al Río de la Plata
+### Ediciones del Viaje al Río de la Plata
 
 * Schmidel, U. (1567). Ander theil dieses Weltbuchs von Schiffahrten. Warhaffftige Beschreibunge aller und mancherley sorgfeltigen Schiffarten, auch viler unbekanten erfundnen Landtschafften, Insulen, Konigreichen, und Stedten... Durch Ulrich Schmidel von Straubingen, etc. Sigmund Feyerabend & Simon Hueters.
 
@@ -16,9 +16,13 @@ icon: book
 
 * Schmidel, U. (1749). Historia y descubrimiento del Río de la Plata y Paraguay (A. González Barcia, Ed. y Trad.; Vol. 3). Buenos Aires, Imprenta y librería de Mayo.
 
-* Schmidel, U. (with Cramer, C.). (1922). [Abenteuer in Südamerika 1534 bis 1554 (Vol. 2). F. A. Brockhaus](https://archive.org/details/abenteuerinsudam00schm/mode/1up?view=theater).
+* Cramer, C. (ed). (1922). [Ulrich Schmidel. Abenteuer in Südamerika 1534 bis 1554 (Vol. 2). F. A. Brockhaus](https://archive.org/details/abenteuerinsudam00schm/mode/1up?view=theater).
 
-* Schmidel, U. (with Mitre, B., & Lafone Quevedo, S.). (1903). [Viaje al Río de la Plata (1534-1554) (S. Lafone Quevedo, Trad.). Cabaut y Cía., Editores Librería del Colegio](https://archive.org/details/ldpd_11899125_000/page/n14/mode/1up?view=theater&q=1567).
+* Lafone Quevedo, S. & Mitre, B (ed. y anot.). (1903). [Ulrico Schmidel. Viaje al Río de la Plata (1534-1554) (S. Lafone Quevedo, Trad.). Cabaut y Cía., Editores Librería del Colegio](https://archive.org/details/ldpd_11899125_000/page/n14/mode/1up?view=theater&q=1567).
+
+* (1948). [Schmidel, Ulrich. Crónica del viaje a las regiones del Plata, Paraguay y Brasil. Argentina. Comisión Oficial del IV Centenario de la Primera Fundación de Buenos Aires. Buenos Aires, Peuser.](https://repositoriouba.sisbi.uba.ar/gsdl/cgi-bin/library.cgi?e=d-10000-00---off-0centenario--00-2----0-10-0---0---0direct-10----4-------0-1l--10-es-Zz-1---20-about---00-3-1-00-00--4--0--0-0-01-00-0utfZz-8-00&a=d&c=centenario&cl=CL1&d=ihaya_co4cfba_6_ulrico-ihaya_co4cfba_6_ulrico_pdf)
+
+* * El Jaber, L. (Ed.) (2016). Ulrico Schmidl. Derrotero y viaje a España y Las Indias. Editorial de la Universidad Nacional de Entre Ríos (EDUNER).
 
 
 ### Artículos
@@ -39,8 +43,6 @@ icon: book
 * Boroni, E. (2011). [Relatos de la conquista del Río de la Plata](https://sedici.unlp.edu.ar/handle/10915/142257) [Tesis de grado, Universidad Nacional de La Plata]. 
 
 * Domínguez, L. (2020). [Lenguas indígenas en la Argentina. Aportes para una historia de la lingüística en la primera mitad del siglo XX](http://repositorio.filo.uba.ar/handle/filodigital/12181) [Tesis doctoral, Universidad de Buenos Aires]. 
-
-* El Jaber, L. (Ed.) (2016). Ulrico Schmidl. Derrotero y viaje a España y Las Indias. Editorial de la Universidad Nacional de Entre Ríos (EDUNER).
 
 * González Torres, D. (1994). Toponimia guarani (y origen e historia de los pueblos) en Paraguay (D. González Torres, Ed.).
 
