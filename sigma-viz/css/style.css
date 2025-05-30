@@ -585,7 +585,7 @@ display: none;
 /* visualizacion moviles */
 @media (max-width: 768px) {
   #mainpanel {
-    /* display: none; */
+    display: hide; 
     position: absolute;
     z-index: 1000;
     background: rgba(255,255,255,0.9);
