@@ -16,13 +16,15 @@ icon: book
 
 * Schmidel, U. (1749). Historia y descubrimiento del Río de la Plata y Paraguay (A. González Barcia, Ed. y Trad.; Vol. 3). Buenos Aires, Imprenta y librería de Mayo.
 
+* Pelliza, Mariano A. (1881). [Historia y descubrimiento del Río de la Plata y Paraguay por Uldérico Schmidel (con una introducción y observaciones críticas). Buenos Aires, Imprenta y Librería de Mayo](https://books.google.com.pe/books?id=bZALAAAAIAAJ&printsec=frontcover#v=onepage&q&f=false). 
+
 * Cramer, C. (ed). (1922). [Ulrich Schmidel. Abenteuer in Südamerika 1534 bis 1554 (Vol. 2). F. A. Brockhaus](https://archive.org/details/abenteuerinsudam00schm/mode/1up?view=theater).
 
 * Lafone Quevedo, S. & Mitre, B (ed. y anot.). (1903). [Ulrico Schmidel. Viaje al Río de la Plata (1534-1554) (S. Lafone Quevedo, Trad.). Cabaut y Cía., Editores Librería del Colegio](https://archive.org/details/ldpd_11899125_000/page/n14/mode/1up?view=theater&q=1567).
 
 * (1948). [Schmidel, Ulrich. Crónica del viaje a las regiones del Plata, Paraguay y Brasil. Argentina. Comisión Oficial del IV Centenario de la Primera Fundación de Buenos Aires. Buenos Aires, Peuser.](https://repositoriouba.sisbi.uba.ar/gsdl/cgi-bin/library.cgi?e=d-10000-00---off-0centenario--00-2----0-10-0---0---0direct-10----4-------0-1l--10-es-Zz-1---20-about---00-3-1-00-00--4--0--0-0-01-00-0utfZz-8-00&a=d&c=centenario&cl=CL1&d=ihaya_co4cfba_6_ulrico-ihaya_co4cfba_6_ulrico_pdf)
 
-* * El Jaber, L. (Ed.) (2016). Ulrico Schmidl. Derrotero y viaje a España y Las Indias. Editorial de la Universidad Nacional de Entre Ríos (EDUNER).
+* El Jaber, L. (Ed.) (2016). Ulrico Schmidl. Derrotero y viaje a España y Las Indias. Editorial de la Universidad Nacional de Entre Ríos (EDUNER).
 
 
 ### Artículos
@@ -59,5 +61,6 @@ icon: book
 * Súsnik, B., & Chase-Sardi, M. (1995). Los Indios del Paraguay. Editorial MAPRE.
 
 * Vergara Martin, G. M. (1922). Diccionario etnográfico americano: Contiene las denominaciones de gran número de naciones, tribus y pueblos de indios;los patronímicos de los naturales de los Estados americanos y de los de algunas comarcas, regiones, provincias y localidades de ellos , y los nombres particulares con que se designan en distintos Estados los indígenas y los extranjeros, según su clases y condición. Librería de los sucesores de Hernando.
+
 
 
