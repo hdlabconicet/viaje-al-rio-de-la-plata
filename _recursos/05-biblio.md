@@ -27,7 +27,7 @@ icon: book
 * El Jaber, L. (Ed.) (2016). Ulrico Schmidl. Derrotero y viaje a España y Las Indias. Editorial de la Universidad Nacional de Entre Ríos (EDUNER).
 
 
-### Artículos
+### Artículos y estudios
 
 * Alves de Arruda, N. (2018). [Historia y cultura de la nación indígena Mbayá-Guaycurúe: Elementos de su trayectoria en la frontera colonial hispano-portuguesa del siglo XVIII](https://doi.org/http://dx.doi.org/10.4067/S0717-88322018000100131). Revista de Historia, 25(1), 131-159. 
 
@@ -35,7 +35,9 @@ icon: book
 
 * Costa, M. de F. (1999). [El mito geográfico de la Laguna de los Xarayes y el Pantanal brasileño](http://www.fuesp.com/publicaciones_revistas_numeros_articulos.asp?cdnumero=146). Anales del Museo de América, 7, 205-218.
 
-* Cro, S. (2013). Textos fundacionales de América. IV Letrados y caballeros. Cuadernos para investigación de la literatura hispánica, 38, 205-242. 
+* Cro, S. (2013). Textos fundacionales de América. IV Letrados y caballeros. Cuadernos para investigación de la literatura hispánica, 38, 205-242.
+
+* Gutiérrez, J. M., López, V. F., Lamas, A.(1873). [Ulderico Schmidel, su obra, su persona y bibliografía](https://babel.hathitrust.org/cgi/pt?id=hvd.hwr8f2&seq=7). Revista Del Rio De La Plata: Periódico Mensual De Historia Y Literatura De América. Buenos Aires, Imprenta y Libreria de Mayo.
 
 
 ### Libros
@@ -61,6 +63,7 @@ icon: book
 * Súsnik, B., & Chase-Sardi, M. (1995). Los Indios del Paraguay. Editorial MAPRE.
 
 * Vergara Martin, G. M. (1922). Diccionario etnográfico americano: Contiene las denominaciones de gran número de naciones, tribus y pueblos de indios;los patronímicos de los naturales de los Estados americanos y de los de algunas comarcas, regiones, provincias y localidades de ellos , y los nombres particulares con que se designan en distintos Estados los indígenas y los extranjeros, según su clases y condición. Librería de los sucesores de Hernando.
+
 
 
 
