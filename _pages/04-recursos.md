@@ -15,10 +15,8 @@ type: extras
         <path fill-rule="evenodd" d="M2.5 4.5a2 2 0 1 1 4 0 2 2 0 0 1-4 0zm2-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
       </svg> Notebook: 
       <h2 class="h3 lh-condensed">Exploración y análisis cuantitativo del Viaje al Río de la Plata</h2>
-  <p><a class="no-underline" title="Ver versión web en HTML" href="{{ site.baseurl }}/assets/notebooks/ulrich_exploraciones_textuales.html" target="_blank" rel="noopener">HTML</a> | 
+  <a class="no-underline" title="Ver versión web en HTML" href="{{ site.baseurl }}/assets/notebooks/ulrich_exploraciones_textuales.html" target="_blank" rel="noopener">HTML</a> | 
   <a class="no-underline" title="Ejecutar en MyBinder" href="https://mybinder.org/v2/gh/rominicky/mineria-texto-python/main?labpath=ulrich_exploraciones_textuales.ipynb" target="_blank" rel="noopener">MyBinder</a>
-</p>
-
 </div>
 
   {% for post in site.recursos %}
